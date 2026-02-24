@@ -1,0 +1,41 @@
+# Coca-Cola India GEO Tracker — Configuration
+#
+# Change models here to switch between free/paid tiers.
+# The providers will read from this config at startup.
+
+providers:
+  openai:
+    model: gpt-5.2-chat-latest    # GPT-5.2 Instant (Free tier model)
+    enabled: true
+  gemini:
+    model: gemini-3-flash-preview  # Gemini 3 Flash (Free tier model)
+    enabled: true
+  perplexity:
+    model: sonar                   # Sonar / Gemini 1.5 Flash (Free tier model)
+    enabled: true
+
+# Common model alternatives:
+#
+# OpenAI:
+#   gpt-5.2-chat-latest   — GPT-5.2 Instant (free tier, fast)
+#   gpt-5                 — GPT-5 (paid tier)
+#   gpt-4o                — GPT-4o (legacy paid)
+#   gpt-4o-mini           — GPT-4o Mini (legacy free)
+#
+# Gemini:
+#   gemini-3-flash-preview — Gemini 3 Flash (free tier)
+#   gemini-2.0-flash       — Gemini 2.0 Flash (legacy free)
+#   gemini-2.5-pro         — Gemini 2.5 Pro (paid tier)
+#
+# Perplexity:
+#   sonar                 — Sonar (free tier, uses Gemini 1.5 Flash)
+#   sonar-pro             — Sonar Pro (paid tier, deeper retrieval)
+#   sonar-reasoning       — Sonar Reasoning (reasoning + search)
+
+run:
+  repeats: 3              # runs per prompt per engine
+  jitter_min_seconds: 2   # min random delay between API calls
+  jitter_max_seconds: 5   # max random delay between API calls
+
+extraction:
+  model: gpt-4o-mini      # cheap model for brand extraction pass

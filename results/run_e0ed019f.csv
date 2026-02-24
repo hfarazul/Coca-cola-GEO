@@ -1,0 +1,91 @@
+run_id,prompt_id,prompt_text,provider,model,latency_ms,input_tokens,output_tokens,repeat_num,coke_brands_found,competitor_brands_found,response_type,coke_is_primary_recommendation,citation_count,coke_citation_count
+e0ed019f,p001,Best cold drink for summer in India,gemini,gemini-3-flash-preview,19066,110,780,1,[],[],list,0,4,0
+e0ed019f,p001,Best cold drink for summer in India,gemini,gemini-3-flash-preview,20329,116,749,2,[],"[""peach_iced_tea""]",list,0,2,0
+e0ed019f,p001,Best cold drink for summer in India,gemini,gemini-3-flash-preview,24759,160,938,3,[],"[""paper_boat""]",list,0,8,0
+e0ed019f,p001,Best cold drink for summer in India,openai,gpt-5.2-chat-latest,12631,10364,730,1,[],[],list,0,5,0
+e0ed019f,p001,Best cold drink for summer in India,openai,gpt-5.2-chat-latest,8609,4433,449,2,[],[],list,0,0,0
+e0ed019f,p001,Best cold drink for summer in India,openai,gpt-5.2-chat-latest,13474,10415,763,3,"[""thums_up""]",[],list,0,4,0
+e0ed019f,p001,Best cold drink for summer in India,perplexity,sonar,6310,8,660,1,[],[],list,0,7,0
+e0ed019f,p001,Best cold drink for summer in India,perplexity,sonar,6549,8,366,2,[],[],list,0,8,0
+e0ed019f,p001,Best cold drink for summer in India,perplexity,sonar,4200,8,513,3,[],[],list,0,8,0
+e0ed019f,p002,What are the ingredients in Coca-Cola?,gemini,gemini-3-flash-preview,14033,118,606,1,"[""coca_cola""]",[],narrative,0,8,0
+e0ed019f,p002,What are the ingredients in Coca-Cola?,gemini,gemini-3-flash-preview,12059,107,575,2,"[""coca_cola""]",[],direct_answer,0,6,0
+e0ed019f,p002,What are the ingredients in Coca-Cola?,gemini,gemini-3-flash-preview,13719,122,652,3,"[""coca_cola""]",[],narrative,0,11,0
+e0ed019f,p002,What are the ingredients in Coca-Cola?,openai,gpt-5.2-chat-latest,8968,10609,433,1,"[""coca_cola""]",[],direct_answer,0,3,0
+e0ed019f,p002,What are the ingredients in Coca-Cola?,openai,gpt-5.2-chat-latest,11636,10617,557,2,"[""coca_cola""]",[],narrative,0,3,0
+e0ed019f,p002,What are the ingredients in Coca-Cola?,openai,gpt-5.2-chat-latest,9509,10413,497,3,"[""coca_cola""]",[],narrative,0,4,0
+e0ed019f,p002,What are the ingredients in Coca-Cola?,perplexity,sonar,2973,9,325,1,"[""coca_cola""]",[],narrative,0,7,2
+e0ed019f,p002,What are the ingredients in Coca-Cola?,perplexity,sonar,4637,9,259,2,"[""coca_cola""]",[],narrative,0,8,3
+e0ed019f,p002,What are the ingredients in Coca-Cola?,perplexity,sonar,3669,9,298,3,"[""coca_cola""]",[],narrative,0,8,2
+e0ed019f,p003,Is Thums Up better than Pepsi?,gemini,gemini-3-flash-preview,15817,128,689,1,"[""thums_up""]","[""pepsi""]",comparison,1,9,0
+e0ed019f,p003,Is Thums Up better than Pepsi?,gemini,gemini-3-flash-preview,19402,118,761,2,"[""thums_up""]","[""pepsi""]",comparison,1,5,1
+e0ed019f,p003,Is Thums Up better than Pepsi?,gemini,gemini-3-flash-preview,21766,138,673,3,"[""thums_up""]","[""pepsi""]",comparison,1,5,1
+e0ed019f,p003,Is Thums Up better than Pepsi?,openai,gpt-5.2-chat-latest,5278,4434,260,1,"[""thums_up""]","[""pepsi""]",comparison,1,0,0
+e0ed019f,p003,Is Thums Up better than Pepsi?,openai,gpt-5.2-chat-latest,5408,4434,262,2,"[""thums_up""]","[""pepsi""]",comparison,1,0,0
+e0ed019f,p003,Is Thums Up better than Pepsi?,openai,gpt-5.2-chat-latest,6060,4434,325,3,"[""thums_up""]","[""pepsi""]",comparison,1,0,0
+e0ed019f,p003,Is Thums Up better than Pepsi?,perplexity,sonar,3920,9,401,1,"[""thums_up""]","[""pepsi""]",comparison,0,5,0
+e0ed019f,p003,Is Thums Up better than Pepsi?,perplexity,sonar,5178,9,518,2,"[""thums_up""]","[""pepsi""]",comparison,1,6,0
+e0ed019f,p003,Is Thums Up better than Pepsi?,perplexity,sonar,6427,9,497,3,"[""thums_up"", ""coca_cola""]","[""pepsi""]",comparison,1,6,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,gemini,gemini-3-flash-preview,20214,117,718,1,"[""coca_cola""]",[],direct_answer,0,9,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,gemini,gemini-3-flash-preview,15467,146,692,2,"[""coca_cola""]","[""coke_zero""]",narrative,0,13,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,gemini,gemini-3-flash-preview,16120,145,676,3,[],[],list,1,17,1
+e0ed019f,p004,Is Coke Zero safe for diabetics?,openai,gpt-5.2-chat-latest,6461,4434,407,1,"[""coca_cola""]",[],direct_answer,1,0,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,openai,gpt-5.2-chat-latest,7255,4434,430,2,"[""coca_cola""]",[],narrative,1,0,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,openai,gpt-5.2-chat-latest,8800,4434,544,3,"[""coca_cola""]",[],direct_answer,1,0,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,perplexity,sonar,4511,10,510,1,"[""coke_zero""]",[],narrative,0,7,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,perplexity,sonar,4929,10,350,2,"[""coke_zero""]",[],direct_answer,0,7,0
+e0ed019f,p004,Is Coke Zero safe for diabetics?,perplexity,sonar,5427,10,522,3,"[""coke_zero""]",[],narrative,0,7,0
+e0ed019f,p005,Coca-Cola sustainability initiatives India,gemini,gemini-3-flash-preview,17227,107,986,1,"[""coca_cola"", ""kinley"", ""maaza""]",[],narrative,1,10,0
+e0ed019f,p005,Coca-Cola sustainability initiatives India,gemini,gemini-3-flash-preview,16512,134,834,2,"[""coca_cola"", ""kinley"", ""maaza"", ""minute_maid""]",[],narrative,1,13,3
+e0ed019f,p005,Coca-Cola sustainability initiatives India,gemini,gemini-3-flash-preview,19272,146,948,3,"[""coca_cola""]",[],narrative,1,10,2
+e0ed019f,p005,Coca-Cola sustainability initiatives India,openai,gpt-5.2-chat-latest,17138,10572,1130,1,"[""coca_cola"", ""maaza""]",[],narrative,1,9,3
+e0ed019f,p005,Coca-Cola sustainability initiatives India,openai,gpt-5.2-chat-latest,18407,10615,1190,2,"[""coca_cola""]",[],narrative,1,10,3
+e0ed019f,p005,Coca-Cola sustainability initiatives India,openai,gpt-5.2-chat-latest,22443,12413,1493,3,"[""coca_cola""]","[""pepsi""]",narrative,1,8,2
+e0ed019f,p005,Coca-Cola sustainability initiatives India,perplexity,sonar,4055,7,480,1,"[""coca_cola"", ""kinley"", ""maaza""]",[],narrative,1,7,3
+e0ed019f,p005,Coca-Cola sustainability initiatives India,perplexity,sonar,5808,7,524,2,"[""coca_cola"", ""maaza""]",[],narrative,1,8,4
+e0ed019f,p005,Coca-Cola sustainability initiatives India,perplexity,sonar,4689,7,481,3,"[""coca_cola"", ""maaza""]",[],narrative,1,7,3
+e0ed019f,p006,Healthiest soft drink options in India,gemini,gemini-3-flash-preview,24153,91,946,1,"[""thums_up"", ""sprite"", ""maaza""]","[""pepsi"", ""paper_boat"", ""raw_presse"", ""polka_pop"", ""vedica"", ""catch"", ""borecha"", ""amul"", ""haki"", ""zen_ya"", ""frooti""]",list,0,4,0
+e0ed019f,p006,Healthiest soft drink options in India,gemini,gemini-3-flash-preview,20706,163,1077,2,"[""coke_zero"", ""thums_up""]","[""pepsi"", ""pepsi_black"", ""7_up"", ""sprite""]",list,0,9,0
+e0ed019f,p006,Healthiest soft drink options in India,gemini,gemini-3-flash-preview,27447,142,941,3,"[""coca_cola"", ""thums_up""]","[""pepsi"", ""7up"", ""paper_boat""]",list,1,11,0
+e0ed019f,p006,Healthiest soft drink options in India,openai,gpt-5.2-chat-latest,18396,12630,1118,1,[],"[""7up""]",list,0,7,0
+e0ed019f,p006,Healthiest soft drink options in India,openai,gpt-5.2-chat-latest,16113,10263,940,2,"[""coca_cola"", ""thums_up"", ""sprite""]","[""pepsi"", ""7up"", ""frooti"", ""campa""]",list,1,7,0
+e0ed019f,p006,Healthiest soft drink options in India,openai,gpt-5.2-chat-latest,17013,12358,1288,3,[],[],list,0,9,0
+e0ed019f,p006,Healthiest soft drink options in India,perplexity,sonar,4707,8,480,1,"[""coke"", ""sprite"", ""thums_up""]","[""pepsi"", ""tropicana"", ""paperboat"", ""nimbooz"", ""7up""]",list,0,4,0
+e0ed019f,p006,Healthiest soft drink options in India,perplexity,sonar,4247,8,396,2,"[""coca_cola"", ""sprite"", ""thums_up""]","[""pepsi"", ""7_up""]",narrative,0,4,0
+e0ed019f,p006,Healthiest soft drink options in India,perplexity,sonar,4737,8,503,3,"[""coca_cola""]","[""pepsi""]",list,0,4,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,gemini,gemini-3-flash-preview,15318,129,757,1,"[""coca_cola""]","[""pepsi""]",comparison,1,9,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,gemini,gemini-3-flash-preview,14380,87,677,2,"[""coca_cola""]","[""pepsi""]",comparison,1,4,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,gemini,gemini-3-flash-preview,21830,113,805,3,"[""coca_cola"", ""sprite""]","[""pepsi"", ""dr_pepper""]",comparison,1,6,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,openai,gpt-5.2-chat-latest,5982,4434,314,1,"[""coca_cola"", ""coke""]","[""pepsi""]",comparison,0,0,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,openai,gpt-5.2-chat-latest,5637,4434,346,2,"[""coca_cola"", ""coke""]","[""pepsi""]",comparison,1,0,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,openai,gpt-5.2-chat-latest,5732,4434,318,3,"[""coca_cola"", ""coke""]","[""pepsi""]",comparison,1,0,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,perplexity,sonar,3485,9,383,1,"[""coca_cola"", ""sprite""]","[""pepsi""]",comparison,0,3,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,perplexity,sonar,4805,9,487,2,"[""coca_cola""]","[""pepsi""]",comparison,0,5,0
+e0ed019f,p007,Coca-Cola vs Pepsi which is better,perplexity,sonar,5334,9,475,3,"[""coca_cola""]","[""pepsi""]",comparison,0,6,0
+e0ed019f,p008,Best mango drink brand in India,gemini,gemini-3-flash-preview,22310,118,843,1,"[""maaza"", ""fanta""]","[""paper_boat"", ""frooti"", ""b_natural"", ""real_fruit_power"", ""raw_pressery"", ""second_nature"", ""24_mantra_organic"", ""slice""]",list,0,10,0
+e0ed019f,p008,Best mango drink brand in India,gemini,gemini-3-flash-preview,18526,125,839,2,"[""maaza""]","[""paper_boat"", ""frooti"", ""slice""]",list,0,5,0
+e0ed019f,p008,Best mango drink brand in India,gemini,gemini-3-flash-preview,22526,113,793,3,"[""maaza""]","[""frooti"", ""slice"", ""paper_boat"", ""raw_pressery"", ""b_natural"", ""real"", ""rasna"", ""yakult""]",list,1,8,0
+e0ed019f,p008,Best mango drink brand in India,openai,gpt-5.2-chat-latest,11217,10456,623,1,"[""maaza""]","[""frooti"", ""slice""]",list,1,4,0
+e0ed019f,p008,Best mango drink brand in India,openai,gpt-5.2-chat-latest,11249,10168,533,2,"[""maaza""]","[""frooti"", ""slice""]",list,1,4,0
+e0ed019f,p008,Best mango drink brand in India,openai,gpt-5.2-chat-latest,12290,10295,634,3,"[""maaza""]","[""frooti"", ""slice""]",list,1,5,0
+e0ed019f,p008,Best mango drink brand in India,perplexity,sonar,3487,7,355,1,[],"[""frooti""]",list,0,4,0
+e0ed019f,p008,Best mango drink brand in India,perplexity,sonar,5276,7,306,2,[],"[""frooti"", ""real fruit juice"", ""mango dash"", ""raw pressery"", ""v-pak"", ""tropicana""]",list,0,4,0
+e0ed019f,p008,Best mango drink brand in India,perplexity,sonar,3657,7,315,3,"[""maaza""]","[""frooti"", ""mango_dash"", ""real_fruit_juice"", ""dabur"", ""tropicana"", ""v-pak_mango_drink"", ""raw_pressery_alphonso_mango""]",list,1,5,1
+e0ed019f,p009,How many calories in Thums Up?,gemini,gemini-3-flash-preview,17044,111,507,1,"[""thums_up""]",[],list,0,2,1
+e0ed019f,p009,How many calories in Thums Up?,gemini,gemini-3-flash-preview,8453,94,323,2,"[""thums_up"", ""coca_cola""]","[""pepsi""]",comparison,0,9,2
+e0ed019f,p009,How many calories in Thums Up?,gemini,gemini-3-flash-preview,10248,76,340,3,"[""thums_up"", ""coca_cola""]","[""pepsi""]",narrative,0,11,2
+e0ed019f,p009,How many calories in Thums Up?,openai,gpt-5.2-chat-latest,7200,10590,277,1,"[""thums_up""]",[],list,0,3,0
+e0ed019f,p009,How many calories in Thums Up?,openai,gpt-5.2-chat-latest,10080,10671,465,2,"[""thums_up""]",[],direct_answer,0,4,1
+e0ed019f,p009,How many calories in Thums Up?,openai,gpt-5.2-chat-latest,7328,10477,376,3,"[""thums_up""]",[],list,0,6,1
+e0ed019f,p009,How many calories in Thums Up?,perplexity,sonar,3331,9,92,1,"[""thums_up""]",[],narrative,0,8,1
+e0ed019f,p009,How many calories in Thums Up?,perplexity,sonar,4158,9,284,2,"[""thums_up""]",[],direct_answer,0,8,1
+e0ed019f,p009,How many calories in Thums Up?,perplexity,sonar,3980,9,318,3,"[""thums_up""]",[],direct_answer,1,8,1
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,gemini,gemini-3-flash-preview,22710,132,720,1,"[""coca_cola""]",[],narrative,0,10,0
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,gemini,gemini-3-flash-preview,29224,145,763,2,"[""coca_cola""]",[],narrative,0,10,0
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,gemini,gemini-3-flash-preview,25002,153,743,3,"[""coca_cola""]",[],narrative,0,8,0
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,openai,gpt-5.2-chat-latest,18529,10413,912,1,"[""coca_cola""]",[],direct_answer,1,7,0
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,openai,gpt-5.2-chat-latest,16451,10584,935,2,"[""coca_cola""]",[],direct_answer,0,7,0
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,openai,gpt-5.2-chat-latest,16474,10415,915,3,"[""coca_cola""]",[],direct_answer,1,7,0
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,perplexity,sonar,4536,9,470,1,"[""coca_cola""]",[],refusal,0,8,2
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,perplexity,sonar,3669,9,349,2,"[""coca_cola""]",[],direct_answer,0,7,2
+e0ed019f,p010,Is Coca-Cola packaging safe for kids?,perplexity,sonar,9414,9,399,3,"[""coca_cola""]",[],narrative,0,8,0

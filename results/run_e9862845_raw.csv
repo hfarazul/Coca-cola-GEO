@@ -1,0 +1,1455 @@
+response_id,run_id,prompt_id,prompt_text,provider,model,raw_text,latency_ms,input_tokens,output_tokens,repeat_num,timestamp,coke_brands_found,competitor_brands_found,response_type,coke_is_primary_recommendation
+fa473833-efb,e9862845,p001,"Best cold drink for summer in India",gemini,gemini-2.0-flash,"India offers a wide variety of refreshing cold drinks perfect for combating the summer heat. Here are some of the most popular and effective options:
+
+**Traditional Indian Drinks:**
+
+*   **Nimbu Pani (Lemonade):** A classic and simple drink made with lemon juice, water, sugar, and a pinch of salt and cumin. It's a readily available and customizable thirst quencher that provides vitamin C and aids digestion.
+*   **Aam Panna (Raw Mango Drink):** Made from tart green mangoes, this tangy drink is popular in North India and West Bengal. It's known for preventing heatstroke and dehydration due to its vitamin C and electrolyte content.
+*   **Jaljeera:** A spicy and tangy drink made with cumin, mint, ginger, black salt, and lemon juice. It's known for its digestive benefits and cooling effect.
+*   **Chaas (Buttermilk):** A refreshing yogurt-based drink mixed with water and spices like cumin, ginger, and mint. It's probiotic-rich, aids digestion, and cools the body.
+*   **Lassi:** A creamy yogurt-based drink that can be sweet or savory. Mango lassi is a popular variation. It's rich in probiotics and helps in digestion.
+*   **Thandai:** A milk-based drink flavored with spices like cardamom, fennel seeds, and rose petals. It has a cooling effect on the body.
+*   **Kokum Sherbet:** A sweet and tangy drink made from the kokum fruit, popular in coastal regions. It's known for its cooling properties and digestive benefits.
+*   **Sugarcane Juice (Ganne ka Ras):** A popular street drink made by pressing sugarcane stalks. It's an instant energizer and is high in minerals.
+*   **Rooh Afza:** A concentrated syrup made from fruits, vegetables, herbs, and flowers, with a rose scent. Mixed with cold water or milk, it's known to combat dehydration and indigestion.
+*   **Bel Sherbet (Wood Apple Drink):** A drink made from wood apple, known for its cooling and digestive properties.
+*   **Panakam:** A South Indian drink made with jaggery, lemon juice, ginger, pepper, and cardamom.
+
+**Other Options:**
+
+*   **Coconut Water:** A natural isotonic drink loaded with essential vitamins and minerals. It's a natural energy drink with high electrolyte content.
+*   **Sol Kadhi:** A drink from the Indian milk drinks that uses coconut milk as a base, and is also made with kokum fruit, green chili, and coriander.
+",8300,7,548,1,2026-02-20T19:11:40.388606,[],[],list,0
+8ba0f9fd-58d,e9862845,p001,"Best cold drink for summer in India",gemini,gemini-2.0-flash,"India offers a variety of refreshing cold drinks to combat the summer heat. Here are some of the best options:
+
+**Traditional Indian Drinks:**
+
+*   **Nimbu Pani (Lemonade):** A simple and refreshing drink made with lemon juice, water, sugar, and a pinch of salt or roasted cumin. It's a great source of Vitamin C and helps in detoxification. You can customize it with ginger, mint, or chili.
+*   **Aam Panna (Raw Mango Drink):** Made from tart green mangoes, this tangy drink is known for preventing heatstroke and dehydration. It is rich in Vitamin C and electrolytes.
+*   **Jaljeera:** A spicy and tangy drink made with cumin, ginger, mint, black pepper, black salt, and lemon. It aids digestion and has a cooling effect.
+*   **Chaas (Buttermilk):** A yogurt-based drink mixed with water and spices like cumin, coriander, and ginger. It's probiotic-rich, soothes the stomach, and aids digestion.
+*   **Lassi:** A creamy yogurt-based drink that can be sweet or savory. Mango lassi is a popular variation. It's rich in probiotics and helps in digestion.
+*   **Thandai:** A milk-based drink flavored with spices and rose petals. It has a cooling effect on the body and prevents overheating.
+*   **Bel Sherbet (Wood Apple Drink):** Made from wood apple pulp, this drink cools the body, relieves dehydration, and aids digestion.
+*   **Sugarcane Juice (Ganne ka Ras):** A natural energizer that helps prevent dehydration and maintain liver health.
+*   **Sattu Drink:** Made from roasted Bengal gram flour, this protein-rich drink cools the body and increases energy.
+*   **Kokum Sherbet:** Made from kokum fruit, this sherbet aids digestion and has anti-inflammatory properties.
+*   **Rose Sharbat:** Made with rose petals, this drink has a cooling effect on the body.
+*   **Panakam:** A jaggery-based drink with a cooling effect.
+
+**Other Options:**
+
+*   **Coconut Water:** A natural isotonic drink that is incredibly effective in rehydrating the body.
+*   **Herbal Infusions:** Mint, hibiscus, and tulsi tea can help cool the body.
+*   **Cucumber or Watermelon Juice:** These juices are hydrating and refreshing.
+*   **Rooh Afza:** A concentrated syrup made from fruits, vegetables, herbs, and flowers, mixed with water or milk.
+
+These drinks not only quench your thirst but also offer various health benefits, including improved digestion, hydration, and a boost of vitamins and minerals.
+",8349,7,569,2,2026-02-20T19:12:01.912531,[],[],list,0
+db60e2ae-548,e9862845,p001,"Best cold drink for summer in India",gemini,gemini-2.0-flash,"Here are some of the best cold drinks to enjoy during the summer in India:
+
+**Traditional Indian Drinks:**
+
+*   **Aam Panna:** Made from raw mangoes, this tangy drink is known for preventing heatstroke and dehydration, thanks to its vitamin C and electrolytes.
+*   **Chaas (Buttermilk):** A yogurt-based drink seasoned with spices like cumin, mint, and coriander, chaas cools and rehydrates the body while also aiding digestion.
+*   **Jaljeera:** A spicy and tangy drink made with cumin, ginger, mint, black pepper, and black salt. It's known for its digestive benefits and cooling effect.
+*   **Kokum Sherbet:** Made from the kokum fruit, this drink is a refreshing and tangy option.
+*   **Nimbu Pani (Lemonade):** A classic summer cooler made with lemon juice, water, sugar, and sometimes mint or cumin. It's a good source of vitamin C and helps balance electrolytes. In Northern India, a version called Shikanji includes ginger, salt, saffron, and cumin.
+*   **Panakam:** A South Indian beverage made with jaggery, lemon juice, dry ginger, pepper, and cardamom.
+*   **Rose Sharbat:** A sweet and aromatic drink made with rose petals.
+*   **Sattu Drink:** A protein-rich beverage made from roasted black chickpeas, often consumed with buttermilk, water, or jaggery.
+*   **Sugarcane Juice (Ganne ka Ras):** A popular street drink made by pressing sugarcane stalks. It's energizing and hydrating.
+*   **Thandai:** A milk-based drink flavored with almonds, fennel seeds, saffron, and spices, known for its cooling properties.
+*   **Bel Sherbet:** Made from wood apple pulp, this drink cools the body, relieves dehydration, and aids digestion.
+
+**Other Refreshing Options:**
+
+*   **Cold Coffee:** A blend of coffee, chilled milk, and ice.
+*   **Lemon Ice Tea:** A mix of tea and lemon.
+*   **Lassi:** A creamy, yogurt-based drink that can be sweet or salty. Variations include mango lassi, strawberry lassi, and pumpkin lassi.
+*   **Limbu Soda:** A fizzy and refreshing twist on lemonade.
+*   **Mint Water:** A simple and refreshing drink with mint leaves.
+*   **Coconut Water:** A natural and hydrating drink.
+
+Many of these traditional drinks offer benefits beyond just cooling you down, such as aiding digestion, providing electrolytes and vitamins, and having anti-inflammatory properties.
+",8448,7,551,3,2026-02-20T19:12:26.178019,[],[],list,0
+db619f67-8ba,e9862845,p001,"Best cold drink for summer in India",openai,gpt-4o,"Here are some popular cold drinks perfect for summer in India:
+
+1. **Aam Panna**: Made from raw mangoes, this refreshing drink is spiced with cumin and mint and is known for its cooling properties.
+
+2. **Lassi**: A yogurt-based drink that can be sweet or salty, often flavored with fruits like mango or spices like cardamom.
+
+3. **Nimbu Pani**: Also known as lemonade, this simple yet refreshing drink is made with lemon juice, water, sugar, and a pinch of salt.
+
+4. **Jaljeera**: A spicy and tangy drink made from cumin, black salt, and mint, often served chilled.
+
+5. **Chaas**: A savory buttermilk drink spiced with cumin and sometimes ginger and green chili.
+
+6. **Coconut Water**: Directly from tender coconuts, it's a natural hydrator and full of electrolytes.
+
+7. **Falsa Sharbat**: Made from the seasonal falsa berries, it’s both refreshing and slightly tangy-sweet.
+
+8. **Thandai**: A traditional drink often associated with festivals, made with nuts, seeds, and mixed spices.
+
+These drinks are not only refreshing but also help in beating the Indian summer heat!",7362,308,263,1,2026-02-20T19:10:44.358419,[],[],list,0
+57a8508f-a99,e9862845,p001,"Best cold drink for summer in India",openai,gpt-4o,"Here are some popular cold drinks to enjoy during the summer in India:
+
+1. **Nimbu Pani (Lemonade):** A refreshing drink made with lemon, water, sugar, and a pinch of salt.
+
+2. **Aam Panna:** A tangy drink made from raw mangoes, sugar, and spices.
+
+3. **Lassi:** A yogurt-based drink, available in sweet and salty versions.
+
+4. **Coconut Water:** Naturally refreshing with a sweet, nutty taste.
+
+5. **Jaljeera:** Made with water, cumin, mint, and lemon juice.
+
+6. **Chaas (Buttermilk):** A spiced yogurt drink, perfect for digestion.
+
+7. **Falooda:** A dessert drink with milk, rose syrup, vermicelli, and basil seeds.
+
+8. **Sugarcane Juice:** Extracted from fresh sugarcane and often seasoned with lime or ginger.
+
+9. **Thandai:** Made with milk, almonds, fennel seeds, and spices, popular during Holi.
+
+These drinks are not only refreshing but also help in keeping the body cool during the hot summer months.",6815,308,237,2,2026-02-20T19:11:01.465215,[],[],list,0
+76736b61-8ec,e9862845,p001,"Best cold drink for summer in India",openai,gpt-4o,"In summer in India, a variety of cold drinks are popular and refreshing. Here are some of the best options:
+
+1. **Nimbu Pani (Lemonade)**: A simple and refreshing drink made with fresh lemon juice, water, sugar, and a pinch of salt or black salt.
+
+2. **Aam Panna**: A tangy drink made from raw mangoes, flavored with cumin and mint, known for its cooling properties.
+
+3. **Lassi**: A yogurt-based drink that can be sweet, salted, or flavored with fruits like mango. It's thick, creamy, and perfect for hot weather.
+
+4. **Coconut Water**: Hydrating and naturally sweet, it's packed with electrolytes.
+
+5. **Buttermilk (Chaas)**: A spiced yogurt drink, often flavored with ginger, green chili, and cilantro.
+
+6. **Jaljeera**: A tangy and spicy drink made with cumin, mint, and tamarind, often served chilled.
+
+7. **Sugarcane Juice**: Freshly pressed juice from sugarcane, sometimes flavored with a dash of lemon or ginger.
+
+8. **Rooh Afza**: A popular rose-flavored syrup mixed with cold milk or water.
+
+These drinks are not only delicious but also help in staying hydrated and cool during the scorching summer heat.",4435,308,278,3,2026-02-20T19:11:16.346761,[],[],list,0
+4beb096f-19d,e9862845,p001,"Best cold drink for summer in India",perplexity,sonar-pro,"**There is no single ""best"" cold drink for summer in India, as preferences vary by region, taste, and health benefits, but **Aam Panna** and **Nimbu Pani (Shikanji)** top most lists for their cooling properties, hydration, and widespread popularity.[1][2][4]**
+
+These drinks combat heat effectively: Aam Panna, made from raw green mango pulp, jaggery, black salt, and cumin, is prized for its heat-resisting qualities and tangy flavor, originating from regions like Gujarat and northern India.[1][2][4] Nimbu Pani, a spiced lemonade with lemon juice, water, sugar, mint, black salt, and cumin, is a cost-effective, tangy staple available nationwide, often as street vendor Shikanji or Banta Soda.[1][2]
+
+### Other Highly Recommended Options
+- **Kokum Sharbat**: Tart, deep red drink from dried kokum rind, popular in coastal areas like Konkan for its refreshing sour-sweet balance and health benefits.[1][3][4]
+- **Jal Jeera**: Cumin water with black salt, ginger, mint, lemon, and chili; a northern favorite for rejuvenation and digestion.[1]
+- **Falsa Sharbat**: Seasonal berry-based drink blending sweet-tangy flavors with black salt and mint; nutritious and cooling.[1][2]
+- **Lassi/Chaas**: Yogurt-based, often spiced with cumin (Jeera Lassi) or fruited (e.g., Strawberry Lassi); protein-rich and hydrating, vegan-adaptable.[1][2]
+- **Sattu Ka Sharbat**: Protein-packed roasted gram flour drink; filling and ideal for busy summer days.[1][3]
+- **Sugarcane Juice (Ganne ka Ras)**: Fresh-pressed street favorite for instant cooling and energy.[2][3]
+
+| Drink | Key Benefits | Regional Popularity |
+|-------|--------------|---------------------|
+| **Aam Panna** | Heat resistance, tangy-spicy | North/Gujarat[1][2][4] |
+| **Nimbu Pani** | Hydrating, affordable | Nationwide[1][2] |
+| **Kokum Sharbat** | Sour refreshment, digestive | Konkan/West[1][3][4] |
+| **Jal Jeera** | Rejuvenating, cumin-based | North[1] |
+
+Choose based on availability—raw mangoes for Aam Panna in peak summer, lemons year-round for Nimbu Pani—and adjust spices for personalization. All emphasize natural ingredients over fizzy drinks for better hydration.[1][2]",7420,8,567,1,2026-02-20T19:12:48.385720,[],[],list,0
+7f2ca4cc-a75,e9862845,p001,"Best cold drink for summer in India",perplexity,sonar-pro,"**Nimbu Pani (Indian lemonade), Aam Panna (raw mango drink), and Jal Jeera (cumin water) stand out as the most popular and refreshing cold drinks for summer in India due to their widespread availability, cooling properties, and hydrating ingredients like lemon, raw mango, and cumin.** [1][2][3]
+
+These drinks are frequently highlighted across sources for combating intense heat, with Nimbu Pani praised for its tangy simplicity using fresh lemons, sugar, water, and optional spices like black salt or cumin, making it a healthier alternative to sodas. [1][2][3] Aam Panna, made from boiled raw mango pulp blended with jaggery, black salt, cumin, and mint, is valued for its heat-resisting qualities, vitamin C content, and electrolyte replenishment from sweat loss. [1][2] Jal Jeera combines cumin, black salt, ginger, mint, chilies, and lemon for a rejuvenating, digestive boost popular in northern India. [1][2]
+
+### Other Top Recommendations
+- **Kokum Sharbat**: Tangy drink from kokum fruit with sugar and water, rich in antioxidants, potassium, and cooling effects for digestion. [1][2]
+- **Masala Chaas (spiced buttermilk)**: Yogurt-based with herbs and spices, protein-rich, hydrating, and ideal for cooling body heat. [1]
+- **Bel Ka Sharbat (wood apple juice)**: Naturally sweet-tangy from bael fruit, nutrient-packed and common in northern India. [1][2]
+- **Rose Sharbat (Gulab Drink)**: Quick floral cooler with rose syrup, offering vitamin C and a soothing energy lift. [1][2]
+
+| Drink | Key Ingredients | Main Benefits |
+|------|-----------------|---------------|
+| Nimbu Pani | Lemon, sugar, water, cumin/black salt | Hydrating, tangy, electrolyte boost [2][3] |
+| Aam Panna | Raw mango, jaggery, cumin, mint | Cooling, vitamin C, digestion aid [1][2] |
+| Jal Jeera | Cumin, mint, lemon, black salt | Rejuvenating, aids digestion [1][2] |
+| Kokum Sharbat | Kokum, sugar, water | Antioxidant-rich, cooling [1][2] |
+| Masala Chaas | Yogurt, spices, herbs | Protein-packed, hydrating [1] |
+
+Preparation is simple and uses seasonal, natural ingredients; chill for best results. Popularity varies by region—northern India favors spiced versions like Shikanji, while fruit-based drinks like Aam Panna are staples nationwide. [1][2][3] No single ""best"" exists due to personal taste, but these top the lists for refreshment and health benefits in scorching summers. [1][2]",5796,8,610,2,2026-02-20T19:13:03.108972,[],[],list,0
+977ded32-03f,e9862845,p001,"Best cold drink for summer in India",perplexity,sonar-pro,"The best cold drink for summer in India depends on your preferences, but **Nimbu Pani (Indian lemonade)** and **Aam Panna (raw mango drink)** are among the most popular and traditional choices.[1][2]
+
+**Nimbu Pani** is a refreshing classic made with fresh lemon juice, water, and sugar, often enhanced with mint leaves, black salt, or roasted cumin.[2][3] It's cost-effective, easy to make, and offers a tangy flavor that provides relief from heat while serving as a healthier alternative to fizzy drinks.[3]
+
+**Aam Panna**, originating from Gujarat, is made from raw green mangoes boiled and mashed into a pulp, then blended with cumin, black salt, sugar, and mint leaves.[2][3] Beyond its sweet and tangy taste, it provides vitamin C, potassium, and electrolytes that help replenish what you lose through sweating, making it particularly nourishing during hot months.[2]
+
+Other excellent options include:
+
+- **Jal Jeera**: A cumin-infused water drink made with black salt, ginger, mint, chilies, and citrus that rejuvenates your body.[1]
+- **Kokum Sherbet**: A tangy drink made from kokum fruit packed with antioxidants and cooling properties that aid digestion.[2]
+- **Thandai**: A milk-based drink with nuts and spices that provides nourishment and has a cooling effect, popular in North India.[2]
+- **Rose Sharbat (Gulab Drink)**: A floral-flavored drink with a cooling effect and vitamin C from rose petals and lime juice.[2]
+- **Falsa Sherbet**: A healthy, refreshing natural fruit drink to combat the heat.[1]
+
+Most of these drinks use natural ingredients and can be customized with additional herbs or spices based on personal preference.",5892,8,380,3,2026-02-20T19:13:15.750512,[],[],list,0
+fbd7cc30-efe,e9862845,p002,"What are the ingredients in Coca-Cola?",gemini,gemini-2.0-flash,"The ingredients in Coca-Cola are:
+
+*   Carbonated water
+*   Sugar (sucrose) or high-fructose corn syrup (HFCS), depending on the country of origin
+*   Caffeine
+*   Phosphoric acid
+*   Caramel color (E150d)
+*   Natural flavorings
+*   Extract of the coca leaf
+
+Coca-Cola's original formula included cocaine derived from coca leaves and caffeine from kola nuts. The cocaine was removed by 1903. Coca-leaf flavoring persists in ""decocainized"" form.
+",3258,9,123,1,2026-02-20T19:13:50.083048,"[""coca_cola""]",[],direct_answer,0
+b3c4e195-614,e9862845,p002,"What are the ingredients in Coca-Cola?",gemini,gemini-2.0-flash,"The ingredients in Coca-Cola are:
+
+*   Carbonated water.
+*   Sugar (sucrose) or high-fructose corn syrup (HFCS), depending on the country of origin.
+*   Caffeine.
+*   Phosphoric acid.
+*   Caramel color (E150d).
+*   Natural flavorings.
+*   Extract of the coca leaf.
+
+Coca-Cola originally contained cocaine derived from coca leaves and caffeine from kola nuts. The cocaine was removed by 1903. Coca-leaf flavoring persists in ""decocainized"" form.
+",3375,9,126,2,2026-02-20T19:13:56.804234,"[""coca_cola""]",[],direct_answer,0
+351016ee-961,e9862845,p002,"What are the ingredients in Coca-Cola?",gemini,gemini-2.0-flash,"The ingredients in Coca-Cola can vary slightly depending on the country of origin, but generally include:
+
+*   Carbonated water.
+*   Sugar (sucrose) or high-fructose corn syrup (HFCS).
+*   Caffeine.
+*   Phosphoric acid.
+*   Caramel color (E150d).
+*   Natural flavorings.
+*   Extract of the coca leaf.
+
+Coca-Cola originally contained cocaine derived from coca leaves and caffeine from kola nuts. The cocaine was removed by 1903. Coca-leaf flavoring persists in ""decocainized"" form.
+",3265,9,131,3,2026-02-20T19:14:03.913612,"[""coca_cola""]",[],direct_answer,0
+e433a877-0cd,e9862845,p002,"What are the ingredients in Coca-Cola?",openai,gpt-4o,"The specific formula for Coca-Cola is proprietary, but the general ingredients are known. Coca-Cola contains:
+
+1. Carbonated water
+2. Sugar (either high-fructose corn syrup or sucrose, depending on the location)
+3. Caffeine
+4. Phosphoric acid
+5. Caramel color
+6. Natural flavorings (which include various essential oils and extracts)
+
+The exact composition of the ""natural flavorings"" is a closely guarded trade secret.",3099,309,97,1,2026-02-20T19:13:25.878136,"[""coca_cola""]",[],direct_answer,0
+1e86e12e-7c5,e9862845,p002,"What are the ingredients in Coca-Cola?",openai,gpt-4o,"The main ingredients in Coca-Cola are:
+
+1. **Carbonated Water**: The primary ingredient, which gives the beverage its fizz.
+2. **High Fructose Corn Syrup or Sucrose**: Used to sweeten the drink.
+3. **Caramel Color**: Provides the characteristic dark color.
+4. **Phosphoric Acid**: Adds a tangy flavor.
+5. **Natural Flavors**: Includes a proprietary blend of flavorings.
+6. **Caffeine**: Adds a slight bitter taste and acts as a stimulant.
+
+The exact formula is a closely guarded secret, especially the combination of natural flavors known as ""Merchandise 7X.""",4377,309,140,2,2026-02-20T19:13:34.540627,"[""coca_cola""]",[],direct_answer,0
+31ce8e61-895,e9862845,p002,"What are the ingredients in Coca-Cola?",openai,gpt-4o,"The ingredients in Coca-Cola typically include:
+
+1. Carbonated water
+2. High fructose corn syrup (or sugar in some regions)
+3. Caramel color
+4. Phosphoric acid
+5. Natural flavors (the exact formula is a trade secret)
+6. Caffeine
+
+Coca-Cola also produces different variations that may have additional or different ingredients. Always check the label for the most accurate information for specific products.",4105,309,89,3,2026-02-20T19:13:42.705194,"[""coca_cola""]",[],direct_answer,0
+2fb35729-399,e9862845,p002,"What are the ingredients in Coca-Cola?",perplexity,sonar-pro,"**The official ingredients for standard Coca-Cola (Original) in the US are carbonated water, high fructose corn syrup, caramel color, phosphoric acid, natural flavors, and caffeine.** [2][8]
+
+These are listed in descending order by weight on Coca-Cola's US product page and McDonald's fountain version, with ""natural flavors"" encompassing the proprietary Merchandise 7X blend (essential oils like orange, lemon, cinnamon, nutmeg, coriander, neroli, and traces of others, plus de-cocainized coca leaf extract and kola nut elements). [1][2] Variations exist by region or product: cane sugar replaces high-fructose corn syrup in Coca-Cola Mexico [2] or some international versions like the UK (sugar, caramel E150d, phosphoric acid, natural flavourings including caffeine) [6]; Japan uses high-fructose corn syrup and sugar with carbonic acid, caramel coloring, acidifier, flavoring, and caffeine [5]; caffeine-free versions omit caffeine [2].
+
+Historical recipes from sources like Wikipedia detail Pemberton's 1886 formula approximations, including sugar (or high-fructose corn syrup), caffeine citrate, citric acid (later phosphoric acid), vanilla extract, lime juice, caramel, and the secret 7X flavoring mixed in alcohol with specific drops of oils (e.g., 80 orange oil, 40 cinnamon oil, 120 lemon oil). [1] Modern analysis confirms aroma compounds from cinnamon, lemon, orange, neroli, coriander, nutmeg, and vanilla. [1] Coca-Cola does not use aspartame in Original (that's for Diet Coke or Coke Zero). [4] The exact 7X formula remains a trade secret. [1]",4362,9,365,1,2026-02-20T19:14:12.901997,"[""coca_cola""]",[],narrative,0
+b9eabd02-0b7,e9862845,p002,"What are the ingredients in Coca-Cola?",perplexity,sonar-pro,"**The ingredients in standard Coca-Cola (often called Coca-Cola Classic or Original) are carbonated water, sugar (or high-fructose corn syrup depending on the country), caramel color, phosphoric acid, natural flavors, and caffeine.** [1][2][3][5][8]
+
+These are listed in descending order of predominance on official sources and labels. Carbonated water forms about 90% of the drink, providing fizz from purified carbon dioxide.[2] The sweetener varies: high-fructose corn syrup in the US,[3] cane sugar in places like Mexico,[3] or sucrose (from beet or cane) elsewhere.[1][4][5] Caramel color (E150d) gives the signature brown hue,[1][2][5] phosphoric acid (E338) adds tartness,[1][2][5] caffeine contributes bitterness (about 34 mg per 12 oz can),[1][2] and natural flavors form the proprietary ""secret formula"" blend.[1][2]
+
+Variations exist by product and region:
+- **Caffeine-free**: Omits caffeine.[3]
+- **Zero Sugar or Diet**: Replaces sugar with low-calorie sweeteners like aspartame and acesulfame potassium; contains phenylalanine.[5][7]
+- Regional differences: New Zealand uses ""sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.""[5]
+
+Historically, the original formula included cocaine from coca leaf (removed by 1903) and caffeine from kola nut, but modern versions do not.[1] A typical 12 fl oz (355 ml) can has 39 g sugar, 140 calories, 34 mg caffeine, and 45 mg sodium.[1] Exact flavor composition remains confidential.[2]",4061,9,372,2,2026-02-20T19:14:23.805841,"[""coca_cola""]",[],direct_answer,0
+dc118bd2-38e,e9862845,p002,"What are the ingredients in Coca-Cola?",perplexity,sonar-pro,"The **main ingredients** in Coca-Cola Original are carbonated water, high fructose corn syrup (or cane sugar in some regions), caramel color, phosphoric acid, natural flavors, and caffeine[2].
+
+The **natural flavors** component includes a proprietary blend known as ""Merchandise 7X,"" which is thought to contain essential oils such as orange, lemon, cinnamon, neroli, coriander, and nutmeg[1]. The primary taste comes from vanilla and cinnamon, with trace amounts of coca leaf extract and spices[1]. Kola nut extract, which historically gave Coca-Cola its name, is believed to still be present in some form, though it is likely supplemented primarily by caffeine citrate, a byproduct of coffee decaffeination[1].
+
+Coca-Cola continues to use spent coca leaves (devoid of cocaine) as a major flavoring ingredient[1]. The exact composition of the natural flavors remains proprietary and partially undisclosed, making the complete formula one of the beverage industry's best-kept secrets.
+
+Regional variations exist—for example, Coca-Cola Mexico uses cane sugar instead of high fructose corn syrup[2]—but the core ingredient list remains consistent across most markets.",5066,9,244,3,2026-02-20T19:14:32.790724,"[""coca_cola""]",[],narrative,1
+adc5469b-346,e9862845,p003,"Is Thums Up better than Pepsi?",gemini,gemini-2.0-flash,"It's subjective whether Thums Up is ""better"" than Pepsi, as it depends on individual taste preferences. Here's a comparison to help you decide: 
+
+ **1. Taste and Ingredients:** 
+
+ *   **Thums Up:** It is known for a strong, spicy, and fizzy taste, with a ""rum-like after taste"". Some detect hints of cinnamon, cardamom, and nutmeg. It is considered less sweet than Pepsi. Thums Up was created with the intention of being fizzier and spicier than Coca-Cola, appealing to the Indian palate. 
+ *   **Pepsi:** Pepsi is generally sweeter than Coke and has a fruity vanilla flavor. Some people have noticed a lemon-y hint in Pepsi. 
+
+ **2. Fizz and Carbonation:** 
+
+ *   Thums Up typically has more carbonation (fizz) than Pepsi. 
+
+ **3. Caffeine:** 
+
+ *   Thums Up generally has a higher caffeine content compared to Pepsi. 
+
+ **4. Acidity:** 
+
+ *   Pepsi is the least acidic compared to Thums Up and Coke. 
+
+ **5. Market Position:** 
+
+ *   Thums Up has a strong presence in India. In 2022, it had a decade-high market share of 20% in the Indian carbonated soft drinks market. Some reports indicate that Thums Up is the second most popular soft drink brand in India, after Sprite.
+ *   Historically, Thums Up held a dominant position in the Indian market. After Coca-Cola's exit from India in 1977, Thums Up filled the void and became the leading cola brand. Coca-Cola later bought Thums Up. 
+
+ **6. Consumer Preference:** 
+
+ *   One study from 2000 indicated that Pepsi was preferred over Thums Up by a ratio of 70:28. However, this preference narrowed in older age groups. 
+ *   Thums Up has a loyal consumer base in India that appreciates its unique taste.
+",6568,8,429,1,2026-02-20T19:15:20.173220,"[""thums_up""]","[""pepsi""]",comparison,1
+0894c437-ee0,e9862845,p003,"Is Thums Up better than Pepsi?",gemini,gemini-2.0-flash,"Whether Thums Up is ""better"" than Pepsi is subjective and depends on individual taste preferences. Here's a comparison to help you decide: 
+
+ **Thums Up:** 
+
+ *   **Taste:** Thums Up has a unique, strong, and spicy flavor with a blend of sweet and tangy notes. Some detect hints of spices like cinnamon, nutmeg, and cardamom. It's described as having a ""thunderous"" taste. 
+ *   **Fizz:** It generally has more carbonation than Pepsi. 
+ *   **Sugar:** Thums Up may have less sugar compared to Pepsi, though some sources indicate it has more sugar than Coke. 
+ *   **Origin:** It's an Indian brand, created in 1977. 
+
+ **Pepsi:** 
+
+ *   **Taste:** Pepsi is often described as sweeter than Coke, with a fruity vanilla flavor. Some people find it overly sweet, with a slight citrusy tang. 
+ *   **Fizz:**  Pepsi may have less fizz compared to Thums Up. 
+ *   **Sugar:** Pepsi can have a high sugar content. 
+
+ **Here's what else you should consider:** 
+
+ *   **Regional Preferences**:  In India, Thums Up is a popular choice, with many people preferring it over other colas. 
+ *   **Flavor Variations**:  Pepsi offers a variety of flavors, including Pepsi Real Sugar, Pepsi Wild Cherry, and Pepsi Nitro Vanilla. 
+
+ Ultimately, the ""better"" choice depends on whether you prefer a bold, spicy cola (Thums Up) or a sweeter, vanilla-flavored cola (Pepsi).
+",5434,8,344,2,2026-02-20T19:15:36.296363,"[""thums_up""]","[""pepsi""]",comparison,1
+9183a71b-e13,e9862845,p003,"Is Thums Up better than Pepsi?",gemini,gemini-2.0-flash,"Whether Thums Up is ""better"" than Pepsi is subjective and depends on individual preferences. Here's a comparison to help you decide: 
+
+ **1. Taste & Ingredients:** 
+
+ *   **Thums Up:**  It is known for its strong, fizzy taste and less sweetness. Some describe it as having a rum-like aftertaste. It's often considered to have a stronger cola flavor that goes well with Indian cuisine. 
+ *   **Pepsi:** Pepsi is generally sweeter than other colas and has a hint of citrus flavor. 
+
+ **2. Market Position:** 
+
+ *   Thums Up has been a leading brand in the carbonated drinks category in India for several years, even achieving a decade-high market share of 20% in 2022. In 2021, it became a billion-dollar brand. 
+ *   Thums Up held a significant market share in India in the 1980s. After Coca-Cola's re-entry into the Indian market and subsequent purchase of Thums Up, they initially considered discontinuing it. However, they realized Thums Up customers would likely switch to Pepsi, so they kept and promoted it as a rival brand to Pepsi. 
+
+ **3. Brand Perception:** 
+
+ *   Thums Up is often seen as a strong and masculine brand. Its ""Taste the Thunder"" tagline has resonated with consumers. 
+
+ In conclusion, Thums Up and Pepsi have distinct flavor profiles and brand identities. Thums Up tends to be preferred by those who enjoy a strong, fizzy cola with less sweetness, while Pepsi appeals to those who prefer a sweeter taste.
+",5192,8,348,3,2026-02-20T19:15:46.778516,"[""thums_up""]","[""pepsi""]",comparison,1
+fc9640e4-a38,e9862845,p003,"Is Thums Up better than Pepsi?",openai,gpt-4o,"Whether Thums Up is better than Pepsi depends on personal preference. Here are some factors to consider:
+
+1. **Flavor Profile**:
+   - **Thums Up**: Known for its strong, slightly spicy flavor with a hint of ginger.
+   - **Pepsi**: Has a sweeter and more citrusy taste.
+
+2. **Branding and Availability**:
+   - **Thums Up**: More popular in India and has a strong local brand identity.
+   - **Pepsi**: Widely available globally and offers various flavors and products.
+
+3. **Caffeine Content**: Thums Up generally has slightly higher caffeine content than Pepsi, which might appeal to those seeking a stronger boost.
+
+4. **Cultural Preference**: In some regions, people might have a cultural or nostalgic preference for one brand over the other.
+
+Ultimately, the choice between Thums Up and Pepsi comes down to individual taste preferences.",5672,309,188,1,2026-02-20T19:14:45.279279,"[""thums_up""]","[""pepsi""]",comparison,1
+c3959707-95a,e9862845,p003,"Is Thums Up better than Pepsi?",openai,gpt-4o,"Whether Thums Up is better than Pepsi depends on personal preference. Here's a comparison to help you decide:
+
+1. **Flavor**:
+   - **Thums Up**: Known for its strong, bold flavor with a hint of spice. It's often described as having a more intense cola taste.
+   - **Pepsi**: Sweeter and smoother compared to Thums Up, with a distinctive cola flavor that is less spicy.
+
+2. **Cultural Preference**:
+   - In India, Thums Up has a strong following and is sometimes preferred for its unique taste that resonates with local preferences.
+   - Pepsi has a global presence and a consistent taste that appeals to a wide audience.
+
+3. **Brand Image**:
+   - Thums Up is often marketed with a focus on adventure and toughness.
+   - Pepsi frequently targets younger audiences with its fun and trendy branding.
+
+Ultimately, it comes down to which flavor and brand image you prefer. If possible, try both and see which one you like more!",6055,309,204,2,2026-02-20T19:14:56.914697,"[""thums_up""]","[""pepsi""]",comparison,1
+e9e1347d-9de,e9862845,p003,"Is Thums Up better than Pepsi?",openai,gpt-4o,"Whether Thums Up or Pepsi is ""better"" is subjective and depends on personal preference. Here are some distinctions that might influence one's choice:
+
+1. **Flavor Profile**:
+   - **Thums Up**: Known for its strong, spicy, and slightly more intense cola flavor.
+   - **Pepsi**: Typically sweeter with a milder, smoother cola taste.
+
+2. **Cultural Influence**: 
+   - **Thums Up** is very popular in India and has a loyal following, often associated with a bold image.
+   - **Pepsi** is a global brand with a wide international presence.
+
+3. **Marketing and Brand Image**:
+   - Both have strong brand identities and marketing campaigns that influence consumer perceptions.
+
+Ultimately, which one is better comes down to which flavor you prefer and the brand's cultural significance to you.",7546,309,173,3,2026-02-20T19:15:08.999849,"[""thums_up""]","[""pepsi""]",comparison,1
+79420c69-193,e9862845,p003,"Is Thums Up better than Pepsi?",perplexity,sonar-pro,"Whether Thums Up is ""better"" than Pepsi depends on personal taste preferences and priorities, as both brands have distinct characteristics and appeal to different consumer segments.
+
+**Taste and flavor profile:** Thums Up has a **spicier, stronger taste** with notes of spices like cinnamon, cardamom, and nutmeg[2][4], making it notably different from standard colas. Pepsi, by contrast, represents a more conventional cola flavor profile. Consumer preferences for taste are subjective—some prefer Thums Up's bold, distinctive flavor, while others favor Pepsi's traditional taste[1].
+
+**Market positioning:** Thums Up was historically positioned as a **""manly"" or ""adult"" drink** emphasizing strength and power, with the successful ""Grow up to Thums Up"" advertising campaign[2]. This positioning appeals to older consumers and those seeking a robust cola experience. Pepsi, meanwhile, targets youth audiences through its association with ""eternal youthness"" via its deep blue branding[1].
+
+**Market performance in India:** Thums Up achieved near-monopoly status in India during the 1980s and remained a top cola brand even after Coca-Cola's return to the market in 1993[2][3]. Despite being acquired by Coca-Cola for $60 million, Thums Up has maintained strong market presence in India[4]. However, this doesn't necessarily indicate superiority—rather, it reflects local preference and brand loyalty in the Indian market.
+
+The choice between them ultimately comes down to whether you prefer a spicier, stronger cola experience (Thums Up) or a more conventional cola taste (Pepsi), along with your age group and regional market factors.",5940,9,341,1,2026-02-20T19:15:57.633155,"[""thums_up""]","[""pepsi""]",comparison,1
+4aed6123-cb2,e9862845,p003,"Is Thums Up better than Pepsi?",perplexity,sonar-pro,"**No, Thums Up is not objectively better than Pepsi; ""better"" depends on subjective preferences like taste, target audience, and market context, with both brands having distinct strengths in India.** [1][2][4]
+
+### Taste and Flavor Profile
+Thums Up is described as **stronger, fizzier, spicier, and less sweet** than Pepsi or Coke, with influences from spices like cinnamon, cardamom, and nutmeg, and a flavor some liken to betel nut. [1][2][3][4] User surveys and blind tests often prioritize its bold taste, with one study noting consumers prefer it for taste over other criteria. [1][3] Pepsi, by contrast, is sweeter and less acidic. [3]
+
+### Market Position and Popularity
+- Thums Up dominates as a top cola in India, originally created in 1977 to fill the gap left by Coca-Cola's exit, and later acquired by Coca-Cola for $60 million to counter Pepsi. [1][2][4]
+- It holds strong equity among **older (30-40) and ""manly"" demographics**, with campaigns like ""Grow up to Thums Up"" and ""Taste the Thunder"" boosting its share against Pepsi. [1][2]
+- Pepsi targets **youth** with celebrities like Sachin Tendulkar and Shah Rukh Khan, while Thums Up uses Akshay Kumar and Salman Khan. [1]
+- Both compete heavily via endorsements, packaging innovations (e.g., MahaCola bottles), and seasonal marketing in hot regions like India. [1][2]
+
+| Aspect          | Thums Up Strengths                          | Pepsi Strengths                          |
+|-----------------|---------------------------------------------|------------------------------------------|
+| **Taste**      | Bolder, spicier, fizzier [1][2][3]         | Sweeter, milder [3]                     |
+| **Audience**   | Adults, ""manly"" image [1][2]               | Youth, global appeal [1]                |
+| **India Market**| Top brand, near-monopoly history [1][4]    | Strong rival via ads/endorsements [2]   |
+| **Global Reach**| Primarily India-focused [1]                | Worldwide presence [1]                  |
+
+### Other Factors
+Pricing for Thums Up shifted to competition-based after Pepsi's entry, with heavy ad spends now exceeding manufacturing costs. [1] Ingredients are similar (carbonated water, sugar, caffeine, flavors), but Thums Up emphasizes fizz even when warm. [2] No recent sales data shows one universally superior; Thums Up thrives as Coca-Cola's weapon against Pepsi in India. [1][2][4] Ultimately, try both—surveys favor Thums Up for taste in India, but preferences vary. [1][3]",8237,9,594,2,2026-02-20T19:16:13.301307,"[""thums_up""]","[""pepsi""]",comparison,1
+84227e55-6e7,e9862845,p003,"Is Thums Up better than Pepsi?",perplexity,sonar-pro,"**No, Thums Up is not objectively better than Pepsi; ""better"" depends on subjective factors like taste preference, use case, and health considerations, with both having similar nutritional profiles and high sugar content.** [1][3]
+
+### Taste and Positioning
+Thums Up offers a **bolder, spicier, and more carbonated flavor** reminiscent of betel nut, positioned as a ""manly"" or stronger cola ideal for pairing with spicy or heavy meals. [1][2][3] Pepsi provides a **sweeter, citrusy profile** suited for casual snacking, parties, or lighter occasions. [1] Consumer surveys emphasize Thums Up's edge in **taste preference** among Indian users who prioritize bold flavor over other attributes. [2]
+
+### Nutritional Comparison (per 250 ml serving)
+Both are high-sugar colas with minimal health differences:
+
+| Drink     | Calories | Sugar (g) | Key Notes                          |
+|-----------|----------|-----------|------------------------------------|
+| **Thums Up** | ~110–120 | ~28      | Higher carbonation; may cause acidity/bloating [1] |
+| **Pepsi**    | ~105–110 | ~26–28   | Phosphoric acid, caffeine; high sugar risks weight gain, enamel erosion [1] |
+
+Neither provides digestive benefits; frequent consumption raises risks from sugar, acidity, and caffeine. [1]
+
+### Market and Brand Context
+Thums Up, originally Indian-developed and now Coca-Cola-owned, dominates in India with strong equity against Pepsi through aggressive marketing (e.g., ""Grow up to Thums Up"" campaign) and celebrity endorsements like Salman Khan. [2][3][5] Pepsi counters with stars like Shah Rukh Khan and global youth appeal via blue branding. [2] Historically, Thums Up held a near-monopoly before Pepsi's entry, leading to direct competition. [2][3]
+
+For occasional enjoyment with bold taste, especially in India or with spicy food, **Thums Up may appeal more**—but neither is healthier, and moderation is key due to shared drawbacks. [1]",6294,9,442,3,2026-02-20T19:16:25.208261,"[""thums_up""]","[""pepsi""]",comparison,1
+6beb2a13-e19,e9862845,p004,"Is Coke Zero safe for diabetics?",gemini,gemini-2.0-flash,"Whether Coke Zero is safe for diabetics is a complex question with varying perspectives:
+
+**Generally Considered Safe in Moderation:**
+
+*   **Blood sugar:** Coke Zero is generally considered safe for people with diabetes because it does not directly raise blood sugar levels due to its lack of sugar and carbohydrates. It uses artificial sweeteners like aspartame and acesulfame potassium (Ace-K).
+*   **Glycemic index:** Coke Zero has a glycemic index and glycemic load of 0, meaning it has a minimal impact on blood sugar.
+*   **Ultrahuman study:** According to data from Ultrahuman M1 CGM users, 77% experienced a stable blood sugar response after drinking Coke Zero, with a rise of no more than 5mg/dL.
+*   **American Diabetes Association:** The artificial sweeteners used in Coke Zero are approved for consumption by the American Diabetes Association.
+
+**Potential Concerns and Considerations:**
+
+*   **Artificial sweeteners:** Some studies suggest that regular consumption of artificial sweeteners could alter gut microbiota and influence glucose metabolism over time.
+*   **Diabetes risk:** A study indicated that consuming non-nutritive sweeteners is associated with an increased risk of developing type 2 diabetes.
+*   **Insulin resistance:** Some research indicates that artificial sweeteners may increase insulin resistance, which can increase the chances of developing prediabetes and type 2 diabetes.
+*   **Metabolic effects:** Long-term metabolic effects of Coke Zero are still being studied.
+*   **Gut health:** Artificially sweetened beverages may alter the gut microbiome, potentially negatively affecting blood sugar management.
+*   **Increased cravings:** Regular consumption of artificially sweetened sodas may lead to cravings for sweet foods, potentially resulting in overeating and increased blood sugar levels.
+*   **Heart and kidney disease:** Artificially sweetened beverages have been linked to an increased risk of heart and kidney disease.
+*   **Individual responses:** Individual responses may vary, especially for those with insulin resistance or diabetes.
+*   **Not a healthy choice:** Coke Zero has no nutritional value.
+*   **Predisposition to diseases:** High intake of Coke Zero may predispose individuals to certain diseases, including organ failure and atherosclerosis.
+*   **Low-carb approach:** Coke Zero is not advisable for a low-carb diabetes approach.
+
+**Recommendations:**
+
+*   **Moderation:** Occasional consumption of Coke Zero is unlikely to be harmful for most people, but it should not replace water or healthier beverage options.
+*   **Monitor blood sugar levels:** It's important to monitor blood sugar levels to see how your body responds.
+*   **Consultation:** Consult a healthcare provider or dietitian for personalized advice, especially if you have other health conditions.
+*   **Balanced diet:** Focus on a balanced diet and healthy hydration.
+*   **Limit intake:** It is important to limit your intake.
+",6358,7,593,1,2026-02-20T19:17:00.405740,"[""coca_cola""]",[],direct_answer,0
+8abf39bb-383,e9862845,p004,"Is Coke Zero safe for diabetics?",gemini,gemini-2.0-flash,"While Coke Zero is sugar-free and may not directly raise blood sugar levels, its safety for diabetics is a complex issue with differing views. Here's a breakdown: 
+
+ **1. Direct impact on blood sugar:** 
+
+ *   Coke Zero contains artificial sweeteners instead of sugar, so it does not directly raise blood glucose levels.
+ *   77% of users in one study experienced stable blood sugar response after drinking Coke Zero. 
+
+ **2. Potential Risks and Considerations:** 
+
+ *   **Artificial Sweeteners:** Some studies suggest that artificial sweeteners might affect insulin sensitivity or increase insulin resistance in people with type 2 diabetes. However, findings are inconclusive and more research is needed.
+ *   **Gut Microbiome:** Artificial sweeteners can negatively affect the diversity and composition of gut bacteria, potentially leading to glucose intolerance. 
+ *   **Increased Risk of Diabetes:** Some studies have found an association between drinking artificially sweetened beverages and an increased risk of type 2 diabetes, especially in women. 
+ *   **Diabetic Eye Complications:** A study found that drinking more than four cans of diet soda per week is associated with more than a two-fold risk of diabetic eye complications. 
+ *   **Insulin Secretion Imbalance:** Some researchers suggest diet sodas may lead to low blood sugar due to an imbalance in insulin secretion. However, research results are inconclusive. 
+ *   **Caffeine:** Coke Zero contains caffeine, which can temporarily increase blood sugar levels in some individuals. 
+
+ **3. Recommendations:** 
+
+ *   **Moderation:** If you have diabetes and choose to drink Coke Zero, moderation is key. 
+ *   **Monitor Blood Sugar:** Always monitor your blood sugar levels to see how your body responds. 
+ *   **Consult Healthcare Provider:** Consult your healthcare provider or dietitian for personalized advice, especially if you have other health conditions. 
+ *   **Prioritize Water:** It's always a good idea to choose water as your go-to beverage as much as possible. 
+
+ **In Conclusion:** Occasional consumption of Coke Zero is generally considered safe for people with diabetes. However, it should not replace water or healthier beverage options. It's important to be aware of the potential risks associated with artificial sweeteners and to monitor your individual response.
+",5837,7,472,2,2026-02-20T19:17:12.282290,"[""coke_zero""]",[],narrative,0
+3872b874-240,e9862845,p004,"Is Coke Zero safe for diabetics?",gemini,gemini-2.0-flash,"For individuals with diabetes, drinking Coke Zero in moderation is generally considered safe. Coke Zero is sugar-free and may not directly raise blood sugar levels.
+
+However, some studies suggest that the artificial sweeteners in diet soda could potentially decrease insulin sensitivity or increase insulin resistance, and may cause an imbalance in the gut microbiome, which may lead to an increase in blood sugar and an inability to control blood sugar levels. Other studies indicate that regularly consuming artificial sweeteners could alter gut microbiota and influence glucose metabolism over time, though definitive conclusions are still being researched.
+
+Coke Zero contains caffeine, which can temporarily increase blood sugar levels in some individuals. Excessive consumption of diet soda has been linked to an increased risk of diabetic eye complications.
+
+If you have diabetes and choose to drink diet soda, moderation is key. It's important to maintain close communication with your doctor and monitor your health.
+",3276,7,176,3,2026-02-20T19:17:19.955290,"[""coca_cola""]","[""pepsi""]",direct_answer,1
+966feca2-fec,e9862845,p004,"Is Coke Zero safe for diabetics?",openai,gpt-4o,"Coke Zero is a sugar-free beverage that contains artificial sweeteners instead of sugar, making it a potentially suitable option for people with diabetes who are monitoring their carbohydrate and sugar intake. However, individual responses to artificial sweeteners can vary. It's important for diabetics to consume it in moderation and consult with a healthcare provider to ensure it fits into their dietary plan.",3379,309,74,1,2026-02-20T19:16:34.673621,"[""coke_zero""]",[],direct_answer,1
+911720d8-d42,e9862845,p004,"Is Coke Zero safe for diabetics?",openai,gpt-4o,"Coke Zero is a sugar-free soda that uses artificial sweeteners to provide a sweet taste without affecting blood sugar levels. For many diabetics, it can be a suitable choice when consumed in moderation. However, individual reactions can vary, and some may have concerns about artificial sweeteners or prefer to avoid them for other health reasons.
+
+It's always best for diabetics to consult with a healthcare provider to ensure that any dietary choices align with their specific health needs and conditions.",2777,309,95,2,2026-02-20T19:16:41.243181,"[""coke_zero""]",[],direct_answer,0
+d7e6ca17-332,e9862845,p004,"Is Coke Zero safe for diabetics?",openai,gpt-4o,"Coke Zero is a sugar-free soda, which means it doesn't contain sugar that can spike blood glucose levels. This makes it generally considered safe for diabetics in moderation. However, it's sweetened with artificial sweeteners, which some people prefer to avoid.
+
+It's important for diabetics to monitor how their body reacts to different foods and beverages, so consulting with a healthcare provider for personalized advice is recommended.",4107,309,82,3,2026-02-20T19:16:49.856944,"[""coca_cola""]",[],direct_answer,0
+8900e44e-207,e9862845,p004,"Is Coke Zero safe for diabetics?",perplexity,sonar-pro,"**Coke Zero is generally safe for people with diabetes when consumed in moderation, as it contains no sugar or carbohydrates and does not significantly raise blood glucose levels in most individuals.**[1][2][3][6]
+
+### Glycemic Impact and Short-Term Safety
+Coke Zero uses nonnutritive sweeteners like aspartame and acesulfame potassium, which have no calories and produce minimal to no blood sugar response, unlike regular soda.[1][2][3] A randomized trial in adults with type 2 diabetes found no adverse glycemic effects from diet soda at 10, 15, or 30 minutes post-consumption.[1] Real-world CGM data from 77% of users showed stable glucose levels (no rise >5 mg/dL) after Coke Zero.[2] The FDA approves these sweeteners for people with diabetes, and they aid calorie and carb reduction when replacing sugary drinks.[1][6]
+
+### Long-Term Considerations and Conflicting Evidence
+Some observational studies link frequent diet soda consumption (e.g., daily) to higher diabetes risk, independent of BMI in overweight individuals, possibly due to gut microbiome changes or metabolic effects from artificial sweeteners.[4][5][8] However, these associations do not prove causation and may reflect reverse causality (e.g., people at risk switching to diet soda).[1][4] Prospective data found no link between diet soda and incident diabetes over 8 years.[1] Long-term effects remain under study, with no definitive harm established.[2]
+
+### Practical Recommendations
+- Consume in **moderation** as part of a balanced diet; avoid compensating with extra calories elsewhere.[1][2][3]
+- Caffeine in Coke Zero may slightly elevate glucose in sensitive individuals via stress hormones.[2]
+- Monitor personal response with a CGM if diabetic, as reactions vary.[2]
+- Prioritize water or unsweetened beverages for optimal health.[2]
+
+| Aspect | Coke Zero/Diet Soda | Regular Soda |
+|--------|---------------------|--------------|
+| **Blood Glucose Effect** | Minimal/none[1][2] | Significant spike (e.g., 72% peak)[1] |
+| **Calories/Carbs** | Zero[1][3] | High (e.g., 80g sugar/can)[1] |
+| **Diabetes Risk (Observational)** | Possible association with heavy use[4][5] | Clearly increases risk[1][4] |
+
+Consult a healthcare provider for personalized advice, especially with insulin resistance.[2]",5445,10,530,1,2026-02-20T19:17:29.178391,"[""coke_zero""]",[],direct_answer,1
+aaa03917-c17,e9862845,p004,"Is Coke Zero safe for diabetics?",perplexity,sonar-pro,"**Coke Zero is generally safe for people with diabetes when consumed in moderation, as it contains no sugar or carbohydrates and does not significantly raise blood glucose levels in most individuals.**[1][2][3][6]
+
+### Glycemic Impact and Short-Term Safety
+Coke Zero uses nonnutritive sweeteners like aspartame and acesulfame potassium, which have minimal to no effect on blood glucose or insulin in clinical trials and real-world data from continuous glucose monitors (CGMs).[1][2] A randomized trial in adults with type 2 diabetes found no adverse glycemic effects from diet soda at 10, 15, or 30 minutes post-consumption.[1] CGM data from 77% of users showed stable glucose responses (no rise >5 mg/dL).[2] The FDA approves these sweeteners for people with diabetes, and they aid calorie and carb reduction compared to regular soda, which causes substantial spikes (e.g., 72% peak from 80g sucrose).[1][6]
+
+### Long-Term Considerations and Potential Risks
+Observational studies link frequent diet soda intake (e.g., daily) to higher diabetes risk, independent of BMI in some cases, possibly due to gut microbiome changes, insulin effects from sweeteners, or reverse causation (people at risk switching to diet soda).[4][5][8] One cohort showed daily consumers had 1.9 times higher incident diabetes rates.[4] Caffeine in Coke Zero may mildly elevate glucose via stress hormones in sensitive individuals.[2] No causal link is established, and benefits outweigh risks as a sugar-soda substitute.[1][3]
+
+### Practical Recommendations
+- Use in moderation as part of a balanced diet; avoid compensating with extra calories elsewhere.[1][2]
+- Monitor personal response with CGM if diabetic, as reactions vary (e.g., due to insulin resistance).[2]
+- Prioritize water or unsweetened drinks; diet sodas are preferable to sugary ones but not ideal daily staples.[1][3][7] Consult a healthcare provider for individualized advice.",4638,10,433,2,2026-02-20T19:17:39.530697,"[""coke_zero""]",[],direct_answer,0
+067dbd74-44d,e9862845,p004,"Is Coke Zero safe for diabetics?",perplexity,sonar-pro,"**Coke Zero is generally safe for diabetics in moderation as it does not significantly raise blood sugar levels for most people, but long-term frequent consumption may carry risks like altered insulin sensitivity or increased diabetes incidence based on some studies.**[1][2][6]
+
+### Short-Term Blood Sugar Impact
+Coke Zero uses artificial sweeteners like **aspartame** and **acesulfame potassium (Ace-K)**, which have negligible effects on blood glucose compared to regular soda's 39 grams of sugar per 12-ounce can.[1][2] Data from continuous glucose monitors shows 77% of users had stable responses (less than 5 mg/dL rise), unlike the spikes from regular Coke.[1] The **Mayo Clinic** confirms most artificial sweeteners are suitable for diabetes management.[6]
+
+However, individual factors matter: caffeine in Coke Zero can trigger stress hormones, raising glucose in some, especially those with insulin resistance.[1] Aspartame and Ace-K may influence insulin secretion via gut receptors, though evidence is inconsistent and requires more research.[1]
+
+### Long-Term Considerations and Risks
+Observational studies link daily diet soda intake to higher diabetes risk:
+- One cohort found daily consumers had a 1.9-fold increased incident diabetes rate, independent of BMI in overweight individuals.[3]
+- Long-term use may disrupt gut microbiota, reduce insulin sensitivity, and associate with a 13% higher cancer risk (e.g., breast, obesity-related).[2][4]
+- A Monash study noted one daily artificially sweetened drink raises diabetes risk by over a third.[7]
+
+These associations do not prove causation—reverse causation (e.g., diabetics switching to diet soda) or confounding factors like BMI may play roles—but they persisted in some adjusted analyses.[3]
+
+| Aspect | Regular Soda | Coke Zero/Diet Soda |
+|--------|--------------|---------------------|
+| **Calories/Sugar** | 140 cal, 39g sugar[2] | 0 cal, 0g sugar[1][2] |
+| **Blood Sugar Spike** | Significant rise[1] | Minimal for 77% of users[1] |
+| **Diabetes Risk (Daily)** | Increased[3] | Potentially 1.9x higher incidence[3] |
+| **Other Concerns** | Weight gain, poor control[2] | Gut changes, insulin effects[1][4] |
+
+### Recommendations
+Healthcare providers often suggest diet sodas over regular for better glycemic control, but emphasize moderation and prioritizing water or unsweetened drinks.[2][5] Test personal response with a glucose monitor if diabetic, and consult a doctor, as overall diet drives health outcomes more than occasional Coke Zero.[1][2] Research on long-term effects continues, with no definitive consensus against occasional use.",6979,10,585,3,2026-02-20T19:17:50.070111,"[""coke_zero"", ""coca_cola""]",[],narrative,0
+69b43013-15a,e9862845,p005,"Coca-Cola sustainability initiatives India",gemini,gemini-2.0-flash,"Coca-Cola India has several sustainability initiatives, including:
+
+*   **World Without Waste:** Launched in 2018, this global initiative aims to reduce Coca-Cola's plastic footprint by increasing recycling rates, reducing waste, and supporting a circular economy. The company aims to make 100% of its packaging recyclable globally by 2025 and use at least 50% recycled material in its packaging by 2030.
+*   **Recycled Plastic Bottles:** Coca-Cola India has launched 100% recycled plastic (rPET) bottles for some of its smaller pack sizes. These bottles are made from 100% food-grade rPET, excluding caps and labels.
+*   **Return and Recycle initiative:** Coca-Cola India has launched a 'Return and Recycle' initiative with Zepto that focuses on gathering PET bottles directly from consumers.
+*   **Water Stewardship:** Coca-Cola has invested in technologies and processes to reduce water consumption in their manufacturing plants. They also aim to replenish the amount of water they use in their beverages and production back to communities and nature.
+*   **Project Unnati:** This project supports the Indian agri-ecosystem by enhancing farming efficiency, strengthening forward linkages, and building food-processing capacity.
+*   **Waste Worker Empowerment:** Coca-Cola empowers waste workers by providing them with recycled PET jackets and hydration carts to promote responsible disposal practices.
+*   **Community Development Programs:** Coca-Cola supports initiatives that promote gender equality and address issues such as domestic violence. They provide skills training, micro-loans, and other resources to help women start and grow their businesses.
+",5272,6,343,1,2026-02-20T19:18:45.965946,"[""coca_cola""]",[],narrative,1
+6261b8d6-cb3,e9862845,p005,"Coca-Cola sustainability initiatives India",gemini,gemini-2.0-flash,"Coca-Cola India is undertaking several sustainability initiatives focused on water stewardship, waste management and recycling, and community development.
+
+**Water Stewardship:**
+
+*   **Water Efficiency:** Coca-Cola has invested in technologies to reduce water consumption in its manufacturing plants and has set targets for water efficiency improvements. The company's water usage ratio was 1.73 liters of water per liter of beverage produced, a 32.4% reduction since 2010.
+*   **Water Replenishment:** Coca-Cola aims to replenish the amount of water used in its beverages and production back to communities and nature. This is achieved through rainwater harvesting, watershed restoration, and support for community water projects. In rural India, the Coca-Cola Foundation, Anandana, supports water conservation projects like water harvesting, watershed management, and restoring traditional water sources. For example, in Anantapur, Andhra Pradesh, Project Jaldhara led to the construction of check dams, replenishing groundwater and enabling farmers to cultivate multiple crops.
+
+**Waste Management and Recycling:**
+
+*   **PET Bottle Recycling:** Coca-Cola is focused on promoting PET bottle recycling by investing in recycling infrastructure, partnering with local recyclers, and raising consumer awareness.
+*   **Recycled Plastic Bottles:** Coca-Cola India has launched 100% recycled plastic (rPET) bottles for some of its products. These bottles are made from food-grade rPET (excluding caps and labels) and carry a ""Recycle Me Again"" message to encourage consumer recycling.
+*   **""World Without Waste"" Initiative:** Coca-Cola has a global goal to collect and recycle the equivalent of a bottle or can for every one it sells by 2030 and to make 100% of its packaging recyclable by 2025.
+*   **Reverse Vending Machines:** Coca-Cola India has deployed Reverse Vending Machines (RVMs) at locations like railway stations and food courts to collect and recycle PET waste.
+*   **Waste Management Programs:** Coca-Cola supports waste management and recycling programs in local communities, working with NGOs to provide waste collection and promote waste reduction and reuse.
+*   **Maidaan Saaf Initiative:** During the Maha Kumbh 2025, Coca-Cola India's Maidaan Saaf initiative promoted recycling and waste management. This included distributing recycled PET jackets to sanitation workers and providing changing rooms made from recycled multi-layered plastic waste for women.
+
+**Community Development:**
+
+*   Coca-Cola invests in improving people's lives, from employees to communities.
+*   Anandana supports communities with projects focused on water harvesting, clean drinking water, watershed management, and restoring traditional water sources.
+*   Coca-Cola supports programs that promote waste reduction and reuse, which helps create jobs, reduce pollution, and promote a more sustainable future.
+",7428,6,594,2,2026-02-20T19:19:00.870876,"[""coca_cola"", ""maidaan_saaf""]",[],narrative,1
+f5b40000-e0c,e9862845,p005,"Coca-Cola sustainability initiatives India",gemini,gemini-2.0-flash,"Coca-Cola India has several sustainability initiatives, focusing on waste management and recycling, water stewardship, and community development.
+
+**Waste Management and Recycling:**
+
+*   **World Without Waste Initiative:** Launched in 2018, this global initiative aims to reduce Coca-Cola's plastic footprint by reducing packaging waste. The company aims to make 100% of its packaging recyclable globally by 2025 and use at least 50% recycled material in its packaging by 2030.
+*   **PET Bottle Recycling:** Coca-Cola invests in recycling infrastructure and partners with local recyclers to collect and process PET bottles. They also promote awareness about recycling among consumers.
+*   **Recycled Plastic Bottles:** Coca-Cola introduced 100% recycled plastic (rPET) bottles in smaller pack sizes (250 ml and 750 ml). These bottles are made from 100% food-grade rPET, excluding caps and labels.
+*   **Reverse Vending Machines (RVMs):** Coca-Cola India has deployed RVMs at key locations to collect and recycle PET waste.
+*   **""Return and Recycle"" initiative:**  Coca-Cola India launched a 'Return and Recycle' initiative with Zepto that focuses on gathering PET bottles directly from consumers. This program helps to establish an organized process of collecting PET bottles with 100% traceability.
+*   **Maidaan Saaf Initiative:** Coca-Cola India's Maidaan Saaf initiative promotes recycling and waste management. As part of this initiative, Coca-Cola India has produced and distributed 21,500 recycled PET jackets for sanitation workers, boatmen, and waste management volunteers. They have also installed 1,000 changing rooms for women, made entirely from recycled multi-layered plastic waste.
+
+**Water Stewardship:**
+
+*   **Water-use efficiency:** Coca-Cola has invested in advanced technologies and processes to reduce water consumption in their manufacturing plants.
+*   **Water Replenishment:** Coca-Cola aims to return to communities and nature an amount of water equivalent to what they use in their beverages and production. This involves rainwater harvesting, watershed restoration, and support for community water projects.
+*   **Water Leadership Programs:** Coca-Cola implements initiatives including rainwater harvesting and restoring groundwater resources to address water sustainability challenges.
+
+**Community Development:**
+
+*   Coca-Cola supports waste management and recycling programs in local communities by working with NGOs and other organizations to provide waste collection and recycling services. They also support programs that promote waste reduction and reuse.
+*   **Project Unnati:** Supports the Indian agri-ecosystem by enhancing farming efficiency, strengthening forward linkages, and building food-processing capacity.
+",6295,6,571,3,2026-02-20T19:19:11.708577,"[""coca_cola"", ""maaza""]",[],narrative,1
+f52d6c58-4ce,e9862845,p005,"Coca-Cola sustainability initiatives India",openai,gpt-4o,"Coca-Cola India has implemented several sustainability initiatives to promote environmental stewardship and support local communities. Key efforts include:
+
+**1. Introduction of 100% Recycled PET Bottles**
+
+In October 2023, Coca-Cola India launched 100% recycled PET (rPET) bottles for its carbonated beverages in 250 ml and 750 ml sizes. These bottles are crafted from food-grade recycled polyethylene terephthalate, reducing the need for virgin plastic. The initiative aligns with the company's global ""World Without Waste"" goal of using 50% recycled content in packaging by 2030. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/coca-cola-india-launches-100-recycled-pet-bottles-in-the-carbonated-beverage-category-301947207.html?utm_source=openai))
+
+**2. Project Mango Unnati**
+
+Coca-Cola India, in collaboration with Gram Unnati, launched Project Mango Unnati to promote sustainable mango cultivation, focusing on Alphonso and Totapuri varieties in Karnataka. The project employs high-density plantation techniques and sustainable agricultural practices, aiming to increase yields and improve farmers' incomes. ([beveragedaily.com](https://www.beveragedaily.com/Article/2024/07/30/coca-cola-india-promotes-sustainable-mango-cultivation-in-alignment-with-government-initiative/?utm_source=openai))
+
+**3. #BenchPeBaat Campaign**
+
+To celebrate World Environment Day, Coca-Cola India initiated the #BenchPeBaat campaign, installing approximately 380 benches made from recycled plastic waste collected during the ICC Men's Cricket World Cup 2023. These benches, each crafted from about 50 kg of recycled plastic, have been placed in schools, colleges, public parks, and municipal offices across ten cities, including Delhi, Mumbai, and Bangalore. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/coca-cola-india-celebrates-world-environment-day-with-benchpebaat-reviving-the-spirit-of-genuine-connections-302165682.html?utm_source=openai))
+
+**4. Maidaan Saaf Initiative**
+
+During the ICC Men's Cricket World Cup 2023, Coca-Cola India launched the Maidaan Saaf campaign to enhance waste management. The initiative involved installing Reverse Vending Machines (RVMs) at stadiums for fans to responsibly dispose of PET bottles. Additionally, national and ICC Unity Flags made from recycled PET bottles were introduced, promoting recycling and environmental awareness. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/anandana---coca-cola-india-foundation-facilitates-waste-management-initiative-during-the-icc-mens-cricket-world-cup-2023-301988773.html?utm_source=openai))
+
+**5. Recycling Innovations at Maha Kumbh 2025**
+
+At the Maha Kumbh 2025, Coca-Cola India showcased recycling innovations by transforming over 10,000 kg of plastic waste into yarns for jackets used by volunteers and waste workers. The company also partnered with Econscious to create 1,000 women's changing rooms from recycled multi-layer plastic waste, installed along a 12-km stretch of river ghats. ([thehansindia.com](https://www.thehansindia.com/business/coca-cola-india-unveils-new-video-showcasing-recycling-innovation-at-maha-kumbh-2025-941017?utm_source=openai))
+
+**6. Recycled India Flag**
+
+Coca-Cola India's recycled India flag, crafted from approximately 11,000 post-consumer PET bottles, entered the Limca Book of Records in 2025. This initiative was part of the Maidaan Saaf campaign, highlighting the company's commitment to sustainable practices and environmental responsibility. ([foodtechbiz.com](https://www.foodtechbiz.com/business-updates/coca-cola-indias-recycled-india-flag-enters-limca-book-of-records-2025?utm_source=openai))
+
+These initiatives reflect Coca-Cola India's dedication to sustainability, focusing on waste reduction, resource conservation, and community engagement. ",8731,307,882,1,2026-02-20T19:18:05.966418,"[""coca_cola"", ""maaza"", ""limca""]",[],narrative,1
+ee948405-4bb,e9862845,p005,"Coca-Cola sustainability initiatives India",openai,gpt-4o,"Coca-Cola India has implemented several sustainability initiatives to promote environmental stewardship and community well-being. Key efforts include:
+
+**1. Sustainable Packaging and Recycling:**
+- **100% Recycled PET Bottles:** In October 2023, Coca-Cola India introduced 100% recycled PET (rPET) bottles for its carbonated beverages in 250 ml and 750 ml sizes. This initiative aims to support a circular economy by reducing the need for virgin plastic. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/coca-cola-india-launches-100-recycled-pet-bottles-in-the-carbonated-beverage-category-301947207.html?utm_source=openai))
+
+- **#BenchPeBaat Campaign:** To celebrate World Environment Day, Coca-Cola India launched the #BenchPeBaat campaign, installing benches made from recycled plastic waste collected during the ICC World Cup 2023. Approximately 380 eco-friendly benches were placed in public spaces across 10 cities, promoting recycling and community engagement. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/coca-cola-india-celebrates-world-environment-day-with-benchpebaat-reviving-the-spirit-of-genuine-connections-302165682.html?utm_source=openai))
+
+- **Maidaan Saaf Initiative:** During the ICC Men's Cricket World Cup 2023, Coca-Cola India implemented the Maidaan Saaf campaign, installing Reverse Vending Machines (RVMs) at stadiums to encourage PET bottle recycling. Additionally, national flags made from recycled PET bottles were introduced to raise awareness about waste management. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/anandana---coca-cola-india-foundation-facilitates-waste-management-initiative-during-the-icc-mens-cricket-world-cup-2023-301988773.html?utm_source=openai))
+
+**2. Sustainable Agriculture:**
+- **Project Mango Unnati:** In collaboration with Gram Unnati, Coca-Cola India launched Project Mango Unnati to promote sustainable mango cultivation in Karnataka. The project focuses on high-density plantation techniques, micro-irrigation, and integrated pest management to enhance yields and sustainability for Alphonso and Totapuri mango varieties. ([beveragedaily.com](https://www.beveragedaily.com/Article/2024/07/30/coca-cola-india-promotes-sustainable-mango-cultivation-in-alignment-with-government-initiative/?utm_source=openai))
+
+**3. Water Stewardship:**
+- **Water Replenishment Goals:** Coca-Cola India aims to return more than 100% of the water used in its finished products to nature and communities. The company focuses on improving water security in high-risk locations and has set a goal to achieve this in over 200 such areas by 2035. ([coca-cola.com](https://www.coca-cola.com/in/en/media-center/the-coca-cola-company-evolves-voluntary-environmental-goals?utm_source=openai))
+
+**4. Community Engagement:**
+- **Maha Kumbh 2025 Initiatives:** At the Maha Kumbh 2025, Coca-Cola India showcased recycling innovations by transforming over 10,000 kilograms of plastic waste into yarns for jackets provided to volunteers and waste workers. Additionally, 1,000 women's changing rooms made from recycled multi-layer plastic waste were installed along the river ghats, addressing both environmental and social needs. ([thehansindia.com](https://www.thehansindia.com/business/coca-cola-india-unveils-new-video-showcasing-recycling-innovation-at-maha-kumbh-2025-941017?utm_source=openai))
+
+These initiatives reflect Coca-Cola India's commitment to sustainability through innovative packaging, responsible agriculture, water conservation, and community-focused projects. ",8572,307,825,2,2026-02-20T19:18:21.113232,"[""coca_cola"", ""maaza""]",[],narrative,1
+863ccd63-06c,e9862845,p005,"Coca-Cola sustainability initiatives India",openai,gpt-4o,"Coca-Cola India has implemented several sustainability initiatives to promote environmental stewardship and community well-being. Key efforts include:
+
+**1. Introduction of 100% Recycled PET Bottles**
+
+In October 2023, Coca-Cola India launched 100% recycled PET (rPET) bottles for its carbonated beverages in 250 ml and 750 ml sizes. These bottles are crafted from food-grade recycled polyethylene terephthalate, reducing the need for virgin plastic. The initiative aligns with the company's global ""World Without Waste"" goal to use at least 50% recycled material in packaging by 2030. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/coca-cola-india-launches-100-recycled-pet-bottles-in-the-carbonated-beverage-category-301947207.html?utm_source=openai))
+
+**2. Project Mango Unnati**
+
+Coca-Cola India, in collaboration with Gram Unnati, launched Project Mango Unnati to promote sustainable mango cultivation, focusing on Alphonso and Totapuri varieties in Karnataka. The project employs high-density plantation techniques and sustainable agricultural practices, aiming to enhance farmer livelihoods and align with the government's vision of self-reliance. ([beveragedaily.com](https://www.beveragedaily.com/Article/2024/07/30/coca-cola-india-promotes-sustainable-mango-cultivation-in-alignment-with-government-initiative/?utm_source=openai))
+
+**3. #BenchPeBaat Campaign**
+
+Celebrating World Environment Day, Coca-Cola India initiated the #BenchPeBaat campaign, installing approximately 380 eco-friendly benches made from recycled plastic waste collected during the ICC Men's Cricket World Cup 2023. These benches, each crafted from about 50 kg of recycled plastic, are placed in schools, colleges, public parks, and municipal offices across 10 cities, fostering community engagement and environmental awareness. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/coca-cola-india-celebrates-world-environment-day-with-benchpebaat-reviving-the-spirit-of-genuine-connections-302165682.html?utm_source=openai))
+
+**4. Maidaan Saaf Initiative**
+
+During the ICC Men's Cricket World Cup 2023, Coca-Cola India launched the Maidaan Saaf campaign to enhance waste management at large-scale events. The initiative included installing Reverse Vending Machines (RVMs) at stadiums for PET bottle collection and recycling. Additionally, national and ICC Unity Flags made from post-consumer PET bottles were introduced, promoting recycling and environmental responsibility. ([prnewswire.com](https://www.prnewswire.com/in/news-releases/anandana---coca-cola-india-foundation-facilitates-waste-management-initiative-during-the-icc-mens-cricket-world-cup-2023-301988773.html?utm_source=openai))
+
+**5. Water Stewardship**
+
+Coca-Cola India focuses on water conservation through its ""Reduce, Recycle, and Replenish"" strategy. By 2020, the company achieved a water usage ratio of 1.73 liters per liter of beverage produced, a 32.4% reduction since 2010. The water replenishment ratio reached 159.9%, underscoring the company's commitment to sustainable water management. ([coca-cola.com](https://www.coca-cola.com/in/en/sustainability?utm_source=openai))
+
+These initiatives reflect Coca-Cola India's dedication to sustainability, encompassing packaging innovation, agricultural support, waste management, and water conservation. ",8521,307,759,3,2026-02-20T19:18:35.026050,"[""coca_cola"", ""maaza""]",[],narrative,1
+a00ce2b9-ce2,e9862845,p005,"Coca-Cola sustainability initiatives India",perplexity,sonar-pro,"Coca-Cola India has implemented sustainability initiatives focused on **recycled packaging**, **waste management at major events**, and **water security** in rural areas, aligning with its global World Without Waste goals.[1][2][3][4][5]
+
+### Recycled Plastic Packaging
+Coca-Cola India launched Coca-Cola bottles made from **100% recycled PET (rPET)** in 250 ml and 750 ml sizes, produced by bottling partners Moon Beverages Ltd. and SLMG Beverages Ltd., excluding caps and labels. These feature ""Recycle Me Again"" messaging to boost consumer awareness, following a similar 1-liter Kinley water bottle launch. The company also introduced the **ASSP (Affordable Small Sparkling Pack)** 250 ml PET bottle, reducing plastic use by up to 40% for sparkling products, and offers **Reverse Vending Machines (RVMs)** and a 'Return and Recycle' program with Zepto for traceable PET collection.[1]
+
+### Waste Management at Maha Kumbh 2025
+Through the **Maidaan Saaf campaign**, in partnership with PHD Rural Development Foundation and Prayagraj Mela Authority, Coca-Cola India distributed **21,500 recycled PET jackets** (10,000 for sanitation workers, 10,000 life jackets for boatmen, 1,500 for volunteers) and installed **1,000 changing rooms** for women made from recycled multi-layered plastic along river ghats. **Hydration carts** every 400 meters include collection bins with artwork promoting segregation, plus RVMs at key sites like railway stations to recycle PET waste.[2][3]
+
+### Water Security and Conservation
+Anandana – The Coca-Cola India Foundation supports rural water projects, including **check dams and ponds** with partner SARA, replenishing over a billion liters of groundwater, reviving agriculture, boosting farmer incomes, and reducing women's water collection burdens. Historically, the company pursued **water neutrality** by 2009 via rainwater harvesting and groundwater restoration, alongside sustainable packaging and community efforts despite past criticisms.[4][5]
+
+These efforts contribute to broader goals like 50% recycled content in bottles by 2030 and recycling one bottle or can per unit sold.[1]",4751,7,462,1,2026-02-20T19:19:23.196313,"[""coca_cola"", ""kinley"", ""maaza""]",[],narrative,1
+e0dc5a6a-52d,e9862845,p005,"Coca-Cola sustainability initiatives India",perplexity,sonar-pro,"**Coca-Cola India's key sustainability initiatives focus on water stewardship, recycled packaging, and community support, aligning with global goals like World Without Waste.** These efforts include launching 100% recycled plastic (rPET) bottles, replenishing water usage, and promoting recycling infrastructure.[1][4][6]
+
+### Packaging and Recycling
+Coca-Cola India has introduced **100% rPET bottles** for smaller sizes like 250 ml and 750 ml Coca-Cola packs, manufactured by partners Moon Beverages Ltd. and SLMG Beverages Ltd., excluding caps and labels. These feature ""Recycle Me Again"" messaging to boost awareness.[1] This builds on their June launch of 100% rPET one-liter Kinley water bottles and supports the global target of 50% recycled content in bottles by 2030, plus collecting/recycling one bottle or can per unit sold by 2030 and 100% recyclable packaging by 2025.[1][6] Additional efforts include the ASSP (Affordable Small Sparkling Pack) 250 ml PET bottle reducing plastic use by up to 40%, drop-off points/Reverse Vending Machines, and a 'Return and Recycle' program with Zepto for traceable PET collection.[1] The company invests in recycling infrastructure and partnerships to promote PET bottle recycling.[7]
+
+### Water Stewardship
+Coca-Cola India achieved **water neutrality** goals ahead of schedule, replenishing 124.5% of water used in operations by creating structures with 13 billion liters of potential through over 200 projects. The **Anandana** initiative has benefited 800,000+ villagers in 600+ villages via NGO collaborations for sustainable water solutions.[4] Earlier plans targeted water neutrality by 2009 amid groundwater depletion criticisms, involving rainwater harvesting and restoration.[2]
+
+### Broader Commitments
+Initiatives extend to **sustainable agriculture**, emission reductions, and community impact under 'Beverages For Life,' supporting local economic opportunities.[3][5][6] Past CSR efforts addressed environmental criticisms like waste dumping through rainwater harvesting, recycling, and community service, though some view them as greenwashing.[2]",4712,7,446,2,2026-02-20T19:19:41.067780,"[""coca_cola"", ""kinley""]",[],narrative,1
+3950ae63-f4f,e9862845,p005,"Coca-Cola sustainability initiatives India",perplexity,sonar-pro,"Coca-Cola India has implemented comprehensive sustainability initiatives focused on waste management, water stewardship, and recycling, with major recent efforts centered on the Maha Kumbh 2025 event.
+
+## Recent Major Initiatives: Maidaan Saaf Campaign
+
+As part of the **Maidaan Saaf campaign** at Maha Kumbh 2025, Coca-Cola India partnered with the PHD Rural Development Foundation and Prayagraj Mela Authority to deliver significant environmental impact[1][2]:
+
+- **21,500 recycled PET jackets** distributed to sanitation workers (10,000), boatmen (10,000 life jackets for 4,000 boats), and waste management volunteers (1,500)[1][2]
+- **1,000 changing rooms for women** constructed entirely from recycled multi-layer plastic waste along a 12-kilometer stretch of river ghats, featuring artwork by leading Indian artists[1][2]
+- **Hydration carts** positioned every 400 meters with built-in waste collection bins and creative artwork encouraging waste segregation[1]
+- **Reverse Vending Machines (RVMs)** deployed at railway stations, food courts, and key locations to collect and recycle PET waste[1][2]
+
+## Long-Term Water and Packaging Goals
+
+Coca-Cola India exceeded its initial water goal by becoming water-balanced by 2020, creating replenishment potential equivalent to 124.5% of water used in operations[4]. Through its Anandana foundation, the company has benefited over 800,000 villagers across 600+ villages, with more than 200 water structures creating 13 billion liters of replenishment potential[4].
+
+Globally, Coca-Cola aims to make **100% of packaging recyclable by 2025** and use at least **50% recycled material in packaging by 2030**[6].
+
+## Historical Context
+
+Coca-Cola India's sustainability approach emerged partly in response to significant criticism regarding groundwater depletion near bottling plants and waste management practices[3]. The company has since championed rainwater harvesting, groundwater restoration, and sustainable packaging initiatives[3].",7773,7,430,3,2026-02-20T19:19:54.382921,"[""coca_cola"", ""maaza""]",[],narrative,1
+276880fc-66a,e9862845,p006,"Healthiest soft drink options in India",gemini,gemini-2.0-flash,"Considering health and refreshment, here are some of the healthier soft drink options available in India: 
+
+ **1. Zero-Sugar Options:** 
+
+ *   **Coca-Cola Zero Sugar, Pepsi Zero Sugar, 7 Up Zero:** These offer the same taste as their regular counterparts without the sugar and calories. They are ideal for those who are calorie-conscious. 
+ *   **Fanta Zero Sugar:**  A sugar-free version of the classic citrus soda with zero calories. 
+
+ **2. Sparkling Water with Natural Flavors:** 
+
+ *   A good option for those who enjoy the fizz of soda but want to avoid sugar and artificial ingredients. 
+ *   Consider plain sparkling water with lemon or mint. 
+
+ **3. Herbal and Ayurvedic Drinks:** 
+
+ *   **Jaljeera:** Made with cumin, ginger, mint, and spices, which aids digestion and has a cooling effect. 
+ *   **Aam Panna:** Made with raw mangoes, rich in vitamin C and antioxidants. 
+ *   **Kokum Sharbat:** Made with kokum fruit, known for its cooling and digestive properties. 
+ *   Herbal drinks with tulsi, ashwagandha, and neem can boost immunity and aid digestion. 
+
+ **4. Coconut Water:** 
+
+ *   A natural sports drink, it is low in sugar and packed with electrolytes. 
+ *   Look for brands that offer pure coconut water without artificial additives. 
+
+ **5. Kombucha:** 
+
+ *   A fermented tea beverage, some variants are sugar-free and known for their probiotic benefits. 
+ *   Brands like Borecha offer kombucha in flavors like Orange, Mango, Sicilian Lemon & Lime, and Hawaiian Passion Fruit. 
+
+ **6. Fruit-Infused Water:** 
+
+ *   Infuse water with natural flavors from fruits, herbs, and spices for a refreshing taste without added sugar. 
+
+ **7. Low-Sugar Drinks:** 
+
+ *   **Pokka:** Offers a range of low-sugar and no-sugar beverages. 
+ *   **Misfits:**  Prebiotic soda with low sugar (4g), prebiotic fibers, low calories, and no preservatives or added colors. 
+
+ **8. Traditional Indian Drinks:** 
+
+ *   **Nimbu Pani (Lemonade):** A simple and refreshing drink. 
+ *   **Lassi:**  A yogurt-based drink (sweet or salted). 
+
+ **9. Sugarless Sharbat:** 
+
+ *   Bhagji Sharbat offers organic rose sharbat and kesariya badam sharbat without added sugar, using natural sweeteners like stevia and monk fruit. 
+
+ **10. Other Options:** 
+
+ *   **Unsweetened Green Tea and Herbal Teas:** Offer antioxidants and hydration without unnecessary calories. 
+ *   **B Natural and Raw Pressery:**  Fruit-based beverages and cold-pressed juices. 
+
+ It's also worth noting that the trend in India is shifting towards healthier beverage options with low or no sugar.
+",7662,7,633,1,2026-02-20T19:20:46.932981,"[""coca_cola"", ""fanta""]","[""pepsi"", ""7up"", ""pokka"", ""misfits""]",list,0
+5ed01f73-1f6,e9862845,p006,"Healthiest soft drink options in India",gemini,gemini-2.0-flash,"For health-conscious individuals in India, several soft drink options offer a refreshing and healthier alternative to traditional sugary beverages. These options often contain natural sweeteners, lower sugar content, or added health benefits.
+
+Some of the healthiest soft drink choices in India include:
+
+*   **Sparkling Water with Natural Flavors:** These drinks provide fizz without the sugar and artificial ingredients of traditional sodas.
+*   **Sugar-Free Sodas:** Many brands now offer sugar-free versions of popular sodas, using alternative sweeteners.
+*   **Herbal and Ayurvedic Drinks:** Traditional Indian drinks like jaljeera, aam panna, and kokum sharbat offer refreshment and health benefits like improved digestion and cooling properties.
+*   **Coconut Water:** This natural sports drink is hydrating, packed with electrolytes, and low in calories, making it ideal for replenishing fluids.
+*   **Fruit-Infused Water:** Infusing water with fruits provides natural flavors without added sugar.
+*   **Kombucha:** This fermented tea beverage is available in sugar-free variants and offers probiotic benefits.
+*   **Nimbu Pani:** A simple and refreshing drink made with lemon, water, and minimal sweetener.
+*   **Sugarless Sharbats:** Brands like Bhagji Sharbat offer sugar-free sharbats with natural sweeteners like stevia and monk fruit.
+*   **Unsweetened Green Tea and Herbal Teas:** These provide antioxidants and hydration without added calories.
+
+When choosing a healthy soft drink, it's important to consider the following:
+
+*   **Ingredients List:** Look for natural sweeteners like stevia, erythritol, or fruit extracts.
+*   **Artificial Additives:** Avoid drinks with artificial preservatives, colors, and flavors.
+*   **Nutritional Value:** Ensure the drink provides hydration and health benefits without unnecessary calories.
+*   **Brand Reputation:** Choose trusted brands that prioritize natural and organic ingredients.
+
+Several brands in India are catering to the increasing demand for healthier beverage options. Paper Boat, RAW Pressery, and B Natural are known for using natural sugars, fruit extracts, and stevia in their drinks. Coca-Cola and PepsiCo have also introduced zero-sugar versions of their popular drinks like Coke Zero, Sprite Zero, and Pepsi Black. Additionally, brands like Pokka offer low-sugar and no-sugar drinks with real brewed tea leaves and refreshing flavors.
+
+The trend towards healthier soft drinks is gaining momentum in India, with sales of zero and low-sugar drinks surging in recent years. Consumers are becoming more health-conscious and are paying closer attention to ingredients and calorie intake.
+",6647,7,537,2,2026-02-20T19:21:02.064223,"[""coca_cola"", ""sprite""]","[""pepsi"", ""paper_boat"", ""pokka""]",list,0
+94ceb545-a7f,e9862845,p006,"Healthiest soft drink options in India",gemini,gemini-2.0-flash,"If you're looking for healthier soft drink options in India, here are some refreshing choices: 
+
+ **Traditional Indian Drinks:** 
+
+ *   **Coconut Water:** This is a natural sports drink that helps to replenish electrolytes and keep you hydrated. Look for brands that only use pure coconut water without artificial additives. 
+ *   **Nimbu Pani (Indian Lemonade):**  A mix of lemon, water, and black salt that provides hydration and restores minerals. You can also add mint for extra flavor. 
+ *   **Lassi:** A yogurt-based drink that can be sweet or savory. Sweet lassi contains yogurt, sugar, and sometimes cardamom. Salt lassi contains yogurt, water, salt, and cumin. Lassi is a good source of probiotics, which are great for gut health. 
+ *   **Chaas (Buttermilk):** A thinner, more savory version of lassi made with yogurt, water, and spices like cumin, ginger, and asafoetida. It is refreshing and aids in digestion. 
+ *   **Jaljeera:** Made with cumin, ginger, mint, and other spices that aid digestion and have a cooling effect. 
+ *   **Aam Panna:** Made with raw mangoes, vitamin C, and antioxidants. It can help prevent heatstroke and maintain electrolyte balance. 
+ *   **Kokum Sharbat:** Made with kokum fruit, which has cooling and digestive properties. 
+ *   **Sattu Drink:** Made from roasted gram flour mixed with water, lemon, salt, and spices, this drink cools the body and keeps you full. 
+
+ **Other Healthier Options:** 
+
+ *   **Sparkling Water with Natural Flavors:** A good choice if you want a fizzy drink without sugar or artificial ingredients. 
+ *   **Sugar-Free Sodas:** Many brands offer sugar-free alternatives with natural sweeteners like stevia or erythritol. 
+ *   **Fruit-Infused Water**: Add slices of fruit to your water for a refreshing and hydrating drink. 
+ *   **Kombucha:** A fermented tea drink that has gained popularity. Some popular flavors include orange, mango, rose litchi, Sicilian lemon & lime, and Hawaiian passion fruit. 
+ *   **Low-Sugar and No-Sugar Drinks:** Brands like Pokka offer beverages with controlled sugar levels, real brewed tea leaves, and no artificial aftertaste. 
+
+ In 2025, sales of zero and low-sugar drinks surged. Coca-Cola's volume sales of zero-sugar drinks reached 30% of its total in 2025, while PepsiCo's sales of no-sugar and mid-sugar drinks rose to 59% of its total volume in the October-December 2025 quarter.
+",6970,7,586,3,2026-02-20T19:21:26.029806,"[""coca_cola""]","[""pepsi""]",list,1
+c1d18f6b-e7b,e9862845,p006,"Healthiest soft drink options in India",openai,gpt-4o,"In India, some of the healthiest soft drink options tend to be those with lower sugar content, added nutrients, or natural ingredients. Here are a few options you might consider:
+
+1. **Coconut Water**: Naturally refreshing and hydrating with electrolytes.
+
+2. **Aam Panna**: A traditional Indian drink made from raw mangoes, noted for its cooling properties.
+
+3. **Buttermilk (Chaas)**: A light, probiotic-rich drink often seasoned with spices.
+
+4. **Lemon Water (Nimbu Pani)**: A simple, homemade drink that can be healthier than packaged options.
+
+5. **Herbal or Green Teas**: Unsweetened teas can be refreshing and are rich in antioxidants.
+
+6. **Fresh Fruit Juices**: Opt for freshly squeezed juices without added sugars.
+
+7. **Kombucha**: A fermented tea beverage that’s low in sugar and contains probiotics.
+
+8. **Sugar-Free Drinks**: Some brands offer sugar-free versions of popular sodas.
+
+Remember to check labels for sugar content and avoid artificial additives where possible.",5474,308,225,1,2026-02-20T19:20:05.878757,[],[],list,0
+aa09bab2-0e8,e9862845,p006,"Healthiest soft drink options in India",openai,gpt-4o,"Healthier soft drink options available in India often include:
+
+1. **Coconut Water**: Naturally hydrating and available in many packaged forms.
+2. **Buttermilk (Chaas)**: A refreshing and probiotic-rich drink.
+3. **Aam Panna**: Made from raw mangoes, it's a traditional and refreshing option.
+4. **Sugarcane Juice**: Often freshly pressed and naturally sweet.
+5. **Lemonade or Nimbu Pani**: A simple, hydrating citrus drink.
+6. **Herbal Iced Teas**: Various brands offer low-sugar or unsweetened options.
+7. **Beverages with Stevia**: Some brands use stevia as a natural sweetener in their drinks.
+8. **Kombucha**: Available in several flavors and known for its probiotic benefits.
+
+When choosing a healthy option, look for low sugar content and natural ingredients.",3755,308,193,2,2026-02-20T19:20:17.728249,[],[],list,0
+f04d2dc2-7c3,e9862845,p006,"Healthiest soft drink options in India",openai,gpt-4o,"In India, if you're looking for healthier soft drink options, consider the following:
+
+1. **Coconut Water**: Naturally refreshing and hydrating, with electrolytes and low in calories.
+   
+2. **Fresh Lime Soda**: Opt for one without added sugar or with minimal sugar. It's refreshing and has vitamin C.
+   
+3. **Aam Panna**: Made from raw mangoes, this drink can be sweetened minimally and offers a good source of vitamins.
+
+4. **Buttermilk (Chaas)**: A low-calorie and hydrating choice, rich in probiotics.
+
+5. **Herbal Teas**: Options like mint, chamomile, or ginger tea offer health benefits without added sugars.
+
+6. **Fruit Juices**: Choose fresh, unsweetened fruit juices or those with no added sugar.
+
+Always check for added sugars and preservatives when purchasing packaged drinks.",4698,308,183,3,2026-02-20T19:20:31.133083,[],[],list,0
+ce5a40f8-85e,e9862845,p006,"Healthiest soft drink options in India",perplexity,sonar-pro,"**The healthiest soft drink options in India emphasize low or no sugar, natural ingredients, probiotics, and hydration benefits, with kombucha varieties from brands like Borecha leading as bottled alternatives to sugary sodas, alongside traditional drinks like nimbu pani and coconut water.**[1][2]
+
+### Top Bottled Soft Drink Options
+These are commercially available, low-sugar fizzy or sparkling drinks promoted for health:
+- **Mango Kombucha** (Borecha): Aids digestion and boosts immunity with gut-friendly herbs; low-sugar for guilt-free refreshment.[1]
+- **Sicilian Lemon & Lime Kombucha** (Borecha): High in vitamin C, supports gut health and hydration; ideal post-workout.[1]
+- **Cuban Watermelon Mojito Kombucha** (Borecha): Low-calorie with natural herbs; hydrates without sugar crash.[1]
+- **Hawaiian Passion Fruits Kombucha** (Borecha): Gut-friendly herbs combat oxidative stress.[1]
+- **Orange Kombucha** (Borecha): Promotes gut health and hydration; suits meals or daily sipping.[1]
+- **Rose Litchi Kombucha** (Borecha): Aids digestion with anti-inflammatory properties; floral and unique flavor.[1]
+
+Borecha kombuchas are available at health stores or online, positioned as top health-focused soft drinks in 2024 for their probiotic benefits over traditional sodas.[1] Other brands like Hana Drinks offer natural-flavored alternatives to sugary beverages.[6]
+
+### Traditional and Homemade Healthier Alternatives
+These non-carbonated options are widely available or easy to make, often outperforming commercial soft drinks in natural nutrition:
+- **Nimbu Pani (Lemon Water)**: Hydrating with lemon juice, water, minimal sugar, and salt; detoxifying and refreshing for summer.[2]
+- **Coconut Water**: Naturally hydrating, nutrient-rich, and low-calorie; a simple healthy staple.[2]
+- **Buttermilk (Chaas)**: Probiotic-rich, aids digestion; gluten-free and cooling.[2]
+- **Gur Ka Sharbat (Jaggery Juice)**: Made with jaggery for natural sweetness; quenches heat better than colas with nutrient benefits.[3]
+- **Ragi Milk**: Cooling, nutrient-dense summer drink from finger millet; supports body temperature regulation.[3]
+
+**Masala chai, mango lassi, and thandai** provide spiced or creamy refreshment but contain more natural sugars or dairy, making them less ideal for strict low-sugar diets compared to the above.[2]
+
+For optimal health, prioritize unsweetened or low-sugar versions to avoid blood sugar spikes; kombuchas offer fizz without artificial additives, while traditional drinks excel in accessibility and cultural relevance.[1][2][3] Availability may vary by region, with urban areas having better access to branded options like Borecha or organic juices.[5]",6393,8,626,1,2026-02-20T19:21:37.961991,[],"[""borecha"", ""hana drinks""]",list,0
+985be06b-7bc,e9862845,p006,"Healthiest soft drink options in India",perplexity,sonar-pro,"**The healthiest soft drink options in India include NBRI's Pio herbal fizz, Borecha's low-sugar kombuchas in flavors like Mango and Sicilian Lemon & Lime, and simple natural alternatives like nimbu pani or coconut water.**[1][2][3]
+
+These stand out for using plant-based ingredients, minimal or no added sugar, and health benefits like improved digestion, antioxidants, and immunity support, unlike typical sugary sodas.[1][2]
+
+### Top Plant-Based and Herbal Options
+- **NBRI's Pio**: A 100% plant-based carbonated drink with herbs like mulethi (liquorice), giloy, ashwagandha, punarnava, grapevine, and cardamom. It offers hepatoprotective, antioxidant, immuno-enhancing, cardio-tonic, diuretic, and digestive properties; no artificial sweeteners, caffeine, alcohol, cocoa, preservatives, or synthetic chemicals; minimal sugar for taste; 4-month shelf life; patented technology transferred to a private company.[1]
+- **Borecha Kombuchas** (low-sugar, gut-friendly fermented teas):
+  | Flavor                  | Key Health Benefits                  |
+  |-------------------------|--------------------------------------|
+  | Mango                   | Aids digestion, boosts immunity     [2] |
+  | Sicilian Lemon & Lime   | High vitamin C, supports gut health, hydration [2] |
+  | Cuban Watermelon Mojito | Low-calorie, natural herbs, no sugar crash [2] |
+  | Hawaiian Passion Fruits | Gut-friendly, reduces oxidative stress [2] |
+  | Orange                  | Gut health, hydration [2]            |
+  | Rose Litchi             | Digestion aid, anti-inflammatory [2] |[2]
+
+### Simpler, Everyday Alternatives
+Homemade or natural drinks often recommended over packaged options:
+- **Nimbu pani** (fresh lime water) instead of branded lemon drinks: Zero added sugars if made at home.[3]
+- **Coconut water**: Naturally healthy, tasty, low-sugar; supports local businesses over multinational brands.[3]
+- **Homemade ginger ale** or plain water: Emphasized as the ultimate zero-sugar choice.[3]
+
+**Other mentions** include organic cold-pressed juices with turmeric, ginger, amla, spirulina, or aloe vera, though these are less fizzy and more juice-like.[5] Availability varies: Pio via private partners, Borecha online/local health stores; prioritize fresh, low-sugar versions to maximize benefits.[1][2]",5600,8,542,2,2026-02-20T19:21:54.711931,[],[],list,0
+47230e03-992,e9862845,p006,"Healthiest soft drink options in India",perplexity,sonar-pro,"**The healthiest soft drink options in India emphasize low or no added sugar, natural ingredients, probiotics, and hydration benefits, with kombucha varieties from brands like Borecha leading commercial choices, alongside traditional homemade beverages like nimbu pani and coconut water.[1][2]**
+
+### Top Commercial Soft Drink Options
+Kombucha-based drinks stand out for their gut health benefits from natural fermentation, low sugar, and added herbs or vitamins, making them suitable alternatives to sugary sodas.[1]
+- **Mango Kombucha**: Aids digestion, boosts immunity with natural herbs; low-sugar and refreshing for summer.[1]
+- **Sicilian Lemon & Lime Kombucha**: High in vitamin C, supports gut health and hydration; ideal post-workout.[1]
+- **Cuban Watermelon Mojito Kombucha**: Low-calorie, hydrating with mint and herbs; mood-uplifting without sugar crash.[1]
+- **Hawaiian Passion Fruits Kombucha**: Gut-friendly herbs protect against oxidative stress; exotic flavor for any occasion.[1]
+- **Orange Kombucha**: Promotes gut health and hydration; pairs well with meals.[1]
+- **Rose Litchi Kombucha**: Aids digestion with anti-inflammatory properties; floral and indulgent taste.[1]
+
+These Borecha kombuchas are available at health stores or online, positioned as 2024's top health-focused soft drinks in India.[1]
+
+### Traditional and Homemade Healthier Alternatives
+Many traditional Indian beverages qualify as soft drinks due to their non-alcoholic, ready-to-drink nature and superior nutrition over colas.[2][3]
+- **Nimbu Pani (Lemon Water)**: Hydrating with lemon juice, water, minimal sugar, and salt; detoxifying and refreshing for summer.[2]
+- **Coconut Water**: Naturally electrolyte-rich, low-calorie hydration option; widely available and gluten-free.[2]
+- **Buttermilk (Chaas)**: Probiotic yogurt-based, aids digestion; cooling and nutrient-dense.[2]
+- **Gur Ka Sharbat (Jaggery Juice)**: Made with jaggery for natural sweetness; quenches heat better than aerated drinks with nutrient benefits.[3]
+- **Jaljeera**: Spice-infused cumin water; hydrating and digestive aid for hot weather.[2]
+
+These options like masala chai, mango lassi, and thandai offer probiotics or nutrients but may include more sugar, so opt for low-sugar versions.[2]
+
+### Key Considerations for Healthiest Choices
+Prioritize drinks low in added sugars and calories while high in probiotics (e.g., kombucha, buttermilk), vitamins (e.g., citrus kombucha), or electrolytes (e.g., coconut water).[1][2][3] Homemade versions allow sugar control, and brands like Brown Living offer organic juices with superfoods such as amla or turmeric for added nutrition.[5] Availability is strong in urban areas via stores or online, with kombucha gaining popularity for fitness goals.[1]",7277,8,638,3,2026-02-20T19:22:10.664237,[],"[""borecha""]",list,0
+28d2c73e-7cf,e9862845,p007,"Coca-Cola vs Pepsi which is better",gemini,gemini-2.0-flash,"The ""better"" choice between Coca-Cola and Pepsi is subjective and depends on individual preferences. Here's a comparison to help you decide: 
+
+ **1. Flavor Profile:** 
+
+ *   **Coca-Cola:** Has a more complex flavor profile with vanilla and caramel notes, often described as smooth, crisp, and refreshing. Some describe it as having a ""battery-acid grab"". 
+ *   **Pepsi:** Is generally sweeter with a citrusy flavor. It has a lighter mouthfeel. 
+
+ **2. Sweetness:** 
+
+ *   Pepsi is typically considered sweeter than Coke. Pepsi has 41 grams of sugar in a 12-ounce can, while Coke has 39 grams. 
+
+ **3. Acidity and Carbonation:** 
+
+ *   Coca-Cola is more acidic due to phosphoric acid. It is also more fizzy than Pepsi because it contains more CO2. 
+
+ **4. Blind Taste Tests:** 
+
+ *   In blind taste tests, some people prefer Pepsi because its sweeter taste provides an immediate burst of flavor. However, this initial preference doesn't always translate to overall satisfaction when drinking a full serving. 
+ *   The ""Pepsi Paradox"" describes how some individuals choose Pepsi in blind taste tests, but prefer Coca-Cola when they know which cola they are drinking. This suggests that branding and overall experience influence preference. 
+
+ **5. The Pepsi Challenge:** 
+
+ *   Since 1975, PepsiCo has used the ""Pepsi Challenge"" in its marketing. In this challenge, individuals participate in a blind taste test where they choose between Pepsi and Coke. The results of these tests often indicated a preference for Pepsi. However, the methodology of the ""Pepsi Challenge"" has been criticized. Some suggest that the sweeter taste of Pepsi is more appealing in a quick sip, even if it is less satisfying in larger quantities. 
+
+ Ultimately, the choice between Coke and Pepsi depends on your personal taste preferences.
+",6381,8,412,1,2026-02-20T19:23:01.363954,"[""coca_cola""]","[""pepsi""]",comparison,1
+4e2c9792-18a,e9862845,p007,"Coca-Cola vs Pepsi which is better",gemini,gemini-2.0-flash,"The question of whether Coca-Cola or Pepsi is ""better"" is subjective and depends on individual preferences. Here's a comparison to help you decide: 
+
+ **1. Taste and Flavor Profile:** 
+
+ *   **Coca-Cola:**  Has a smoother taste with vanilla and caramel notes. It's often described as having a more balanced and mellow flavor. Some find it crisper and more refreshing, without the sugar overload that Pepsi can have. 
+ *   **Pepsi:** Has a brighter, citrusy sweetness due to more citric acid in its recipe. It's often described as sweeter and sharper on the first sip. Some find its flavor stronger and quicker to taste. 
+
+ **2. Sugar and Calories:** 
+
+ *   Coca-Cola generally has slightly less sugar and fewer calories than Pepsi. A 12-ounce can of Coke has about 39 grams of sugar (140 calories), while a 12-ounce can of Pepsi has about 41 grams of sugar (150 calories). 
+
+ **3. Other factors:** 
+
+ *   **Brand Perception:** Coca-Cola is often seen as a timeless, universal drink. Some studies suggest that older drinkers prefer the subtlety of Coca-Cola, while younger audiences tend to favor Pepsi's sweeter profile. 
+ *   **Market Share:** Coca-Cola is the leader in market share globally. 
+
+ It's worth noting that in blind taste tests, some people prefer Pepsi, but when they know which cola they're drinking, Coca-Cola is often preferred. This suggests that brand experience plays a significant role in people's preferences.
+",5321,8,341,2,2026-02-20T19:23:21.039142,"[""coca_cola""]","[""pepsi""]",comparison,1
+faa163bb-4e8,e9862845,p007,"Coca-Cola vs Pepsi which is better",gemini,gemini-2.0-flash,"The ""better"" choice between Coca-Cola and Pepsi is subjective and depends on individual preferences. Here's a breakdown to help you decide: 
+
+ **1. Taste and Flavor Profile:** 
+
+ *   **Coca-Cola:** Has a smoother taste with vanilla and caramel notes. Some describe it as having a molasses-like flavor. 
+ *   **Pepsi:** Has a brighter, citrusy sweetness due to the inclusion of citric acid in its recipe. It's often described as sweeter and sharper on the first sip. Some find it more carbonated and fizzy. 
+
+ **2. Nutrition:** 
+
+ *   **Calories:** Pepsi has marginally more calories than Coke. A 12-ounce can of Pepsi has about 150 calories, while Coke has approximately 140. 
+ *   **Sugar:** Pepsi has slightly more sugar than Coke. A 12-ounce can of Pepsi contains about 41 grams of sugar, while Coke has around 39 grams. 
+ *   **Sodium:** Pepsi has a bit less sodium than Coke. 
+ *   **Caffeine:** Pepsi has slightly more caffeine. 
+
+ **3. Ingredients:** 
+
+ *   **Citric Acid:** Pepsi lists citric acid as an ingredient, while Coke does not. 
+
+ **4. Brand and History:** 
+
+ *   Coca-Cola was established before Pepsi and has a long-standing reputation as a global symbol of American taste. 
+ *   Coca-Cola has become a cultural institution. 
+
+ In blind taste tests, some people prefer Pepsi due to its sweeter and sharper flavor. However, Coca-Cola has strong brand loyalty, and many prefer it because of its familiar taste, logo, and nostalgia.
+",5024,8,361,3,2026-02-20T19:23:33.105993,"[""coca_cola""]","[""pepsi""]",comparison,1
+9bbe19d3-a4b,e9862845,p007,"Coca-Cola vs Pepsi which is better",openai,gpt-4o,"The debate between Coca-Cola and Pepsi often depends on personal preference, as taste is subjective. Here are some general points of comparison:
+
+1. **Taste**:
+   - **Coca-Cola**: Known for a smoother, vanilla-like taste.
+   - **Pepsi**: Often described as sweeter and more citrusy.
+
+2. **Branding**:
+   - **Coca-Cola**: Has a classic, timeless brand image.
+   - **Pepsi**: Often markets itself as a youthful and modern brand.
+
+3. **Product Variety**:
+   - Both companies offer a wide range of products, including diet versions, flavored sodas, energy drinks, and more.
+
+4. **Marketing Strategies**:
+   - Coca-Cola: Emphasizes tradition and nostalgia.
+   - Pepsi: Known for its bold and sometimes experimental marketing campaigns.
+
+5. **Cultural Differences**:
+   - In some regions, one brand may dominate due to historical, marketing, or distribution reasons.
+
+Ultimately, the preference between Coca-Cola and Pepsi comes down to individual taste and brand loyalty.",4898,309,218,1,2026-02-20T19:22:23.551747,"[""coca_cola""]","[""pepsi""]",comparison,0
+0d8e3207-bc5,e9862845,p007,"Coca-Cola vs Pepsi which is better",openai,gpt-4o,"The choice between Coca-Cola and Pepsi often comes down to personal preference. Here are some differences that might influence your decision:
+
+1. **Taste**:
+   - **Coca-Cola**: Has a slightly smoother, vanilla-raisin flavor.
+   - **Pepsi**: Tends to be sweeter and has a citrusy, cola flavor.
+
+2. **Branding**:
+   - **Coca-Cola**: Known for its classic branding and iconic red and white color scheme.
+   - **Pepsi**: Often associated with a more youthful, dynamic image.
+
+3. **Product Variations**:
+   - Both brands offer a wide range of products, including diet versions, zero-calorie options, and various flavored colas.
+
+4. **Cultural Influence**:
+   - Coca-Cola tends to be seen as more traditional and is often associated with nostalgia.
+   - Pepsi has historically positioned itself as modern and innovative.
+
+Ultimately, it depends on what flavors and brand qualities resonate with you. Some people prefer one over the other, while others enjoy both for different reasons.",4468,309,218,2,2026-02-20T19:22:36.764623,"[""coca_cola""]","[""pepsi""]",comparison,1
+3dfd7fa8-0d9,e9862845,p007,"Coca-Cola vs Pepsi which is better",openai,gpt-4o,"The choice between Coca-Cola and Pepsi often comes down to personal preference. Here are some factors that people consider:
+
+1. **Taste**: Coca-Cola tends to have a more complex flavor with a hint of vanilla and cinnamon, while Pepsi is often sweeter with a citrusy flavor.
+
+2. **Brand Loyalty**: Many people have strong brand loyalties based on nostalgia, advertising, or family preferences.
+
+3. **Regional Availability**: In some areas, one brand may be more readily available than the other.
+
+4. **Diet and Specialty Options**: Both companies offer diet and other variations, which might influence preference based on dietary needs or taste preferences.
+
+5. **Cultural Impact**: Both brands have significant cultural impacts and different marketing strategies that may appeal to different audiences.
+
+Ultimately, the ""better"" option depends on what individual aspects are most important to you.",5157,309,176,3,2026-02-20T19:22:50.201583,"[""coca_cola""]","[""pepsi""]",comparison,0
+7eae5513-cdd,e9862845,p007,"Coca-Cola vs Pepsi which is better",perplexity,sonar-pro,"**Neither Coca-Cola nor Pepsi is objectively ""better""—preference depends on individual taste, brand loyalty, and context, with blind tests often favoring Pepsi's sweeter profile while stated preferences lean toward Coke.** [1][3]
+
+### Taste Differences
+Pepsi tastes sweeter with a citrusy flavor from citric acid, while Coke has a raisiny-vanilla note without citric acid.[1] In blind taste tests like the Pepsi Challenge, Pepsi often wins due to its sweetness in short sips, but people state a stronger overall preference for Coke (46% vs. 39% in one study).[1][3][4] Brain imaging shows Coke evokes stronger emotional responses via the amygdala, explaining brand loyalty despite taste test results (the ""Pepsi Paradox"").[3]
+
+### Nutritional Comparison (per 12oz serving)
+| Aspect       | Coca-Cola          | Pepsi              |
+|--------------|--------------------|--------------------|
+| **Sugar**   | 39g[1]            | 41g[1]            |
+| **Caffeine**| 34mg[1]           | 37.5mg[1]         |
+| **Sodium**  | Slightly higher[1]| Slightly lower[1] |
+
+Neither is healthier; differences are minimal.[1]
+
+### Broader Insights from Tests
+- A YouTube blind taste test noted Coke products having more ""bite"" (e.g., in colas and Sprite), while preferences varied across beverages like cream sodas and energy drinks.[2]
+- Diet versions show a stronger Pepsi Paradox: 64% preferred Diet Pepsi in blind tests vs. stated Coke preference.[3]
+- Scientific studies confirm perceptible taste differences between Coke and Pepsi, but not with other colas like RC.[4]
+
+Ultimately, try a blind test yourself—results highlight how branding influences perception beyond flavor.[1][3]",5534,9,391,1,2026-02-20T19:23:47.625126,"[""coca_cola"", ""sprite""]","[""pepsi""]",comparison,0
+f5eb4295-624,e9862845,p007,"Coca-Cola vs Pepsi which is better",perplexity,sonar-pro,"**Neither Coca-Cola nor Pepsi is objectively ""better""—preference depends on personal taste, with blind tests showing mixed results and distinct flavor profiles.** Coca-Cola offers a **raisiny-vanilla taste**, while Pepsi delivers a **sweeter, citrusy burst** due to citric acid (absent in Coke), slightly more sugar (41g vs. 39g per 12oz), caffeine (37.5mg vs. 34mg), and calories[1]. Neither is healthier, as nutritional differences are minimal, though Coke has a tiny sodium edge[1].
+
+### Flavor and Blind Taste Test Insights
+- **Pepsi excels in short-sip blind tests** like the 1970s-80s Pepsi Challenge, where its sweetness won more often, but **Coke dominates in overall preference** when brand familiarity or longer tastes factor in[1][4].
+- In a BuzzFeed blind test, tasters distinguished them (Coke noted as more vanilla, Pepsi weaker), with some preferring Coke's classic profile over Pepsi's rebranding[3].
+- A Rhett & Link YouTube taste test across products (e.g., colas, lemon-limes, root beers) found **Coke options often had more ""bite""** (e.g., Sprite vs. Starry, Coke root beer), while preferences split evenly on others like energy drinks[2].
+
+| Aspect          | **Coca-Cola**                  | **Pepsi**                      |
+|-----------------|--------------------------------|--------------------------------|
+| **Key Flavor** | Raisiny-vanilla[1]            | Sweeter, citrusy[1]            |
+| **Sugar (12oz)** | 39g[1]                        | 41g[1]                         |
+| **Caffeine (12oz)** | 34mg[1]                    | 37.5mg[1]                      |
+| **Blind Test Edge** | Longer tastes, brand loyalty[1][4] | Short sips (Pepsi Challenge)[1][4] |
+
+Ultimately, **try a blind test yourself**—studies confirm a perceptible difference, but no universal winner exists[4]. Marketing (Coke's classic athletic image vs. Pepsi's entertainment vibe) influences loyalty beyond taste[3].",5585,9,468,2,2026-02-20T19:24:01.657842,"[""coca_cola""]","[""pepsi""]",comparison,0
+9ef079f9-f31,e9862845,p007,"Coca-Cola vs Pepsi which is better",perplexity,sonar-pro,"Whether Coca-Cola or Pepsi is ""better"" ultimately comes down to **personal taste preference**, as there is no objective winner.[1]
+
+However, there are measurable differences between the two that may influence your choice:
+
+**Flavor Profile**
+Pepsi is **sweeter** with a **citrusy flavor**, while Coke has a more **raisiny-vanilla taste**.[1] This difference stems from Pepsi's use of citric acid, which Coke does not contain.[1]
+
+**Nutritional Content**
+In a 12oz serving, Pepsi contains slightly more sugar (41g vs. 39g) and caffeine (37.5mg vs. 34mg), while Coke has a slight edge in sodium.[1]
+
+**Why the ""Pepsi Challenge"" Worked**
+Pepsi's famous 1970s-80s marketing campaign succeeded partly because people tend to prefer sweeter beverages in **single sips**.[1][3] However, when consuming an entire can, preference may shift—many people find the sweeter option less appealing over time.[1] Additionally, the blind taste test methodology may have been influenced by letter preference, as Pepsi cups were labeled ""M"" and Coca-Cola cups ""Q.""[3]
+
+**Market Position**
+Coca-Cola maintains its position as the global leader in soft drinks, while Pepsi positions itself as the alternative with more diversified business operations.[1]
+
+Your preference will depend on whether you favor sweeter, citrusy flavors (Pepsi) or more subtle vanilla-raisin notes (Coke).",5752,9,319,3,2026-02-20T19:24:14.154824,"[""coca_cola""]","[""pepsi""]",comparison,0
+25208000-12e,e9862845,p008,"Best mango drink brand in India",gemini,gemini-2.0-flash,"Determining the ""best"" mango drink brand is subjective and depends on individual preferences. However, here are some of the most popular and well-regarded mango drink brands in India: 
+
+ *   **Maaza:** A timeless favorite, Maaza is known for its thick texture and strong mango flavor, delivering a taste close to homemade mango juice. It is owned by Coca-Cola.
+ *   **Frooti:** This iconic brand, owned by Parle Agro, is known for its bright, juicy taste and smooth consistency. Frooti was launched in 1985 and is credited with popularizing packaged mango drinks in India.
+ *   **Slice:** Marketed as a premium mango drink by PepsiCo India, Slice is known for its smooth, rich, and indulgent flavor. Tropicana rebranded Slice as Tropicana Slice Mango Juice drink in 2014.
+ *   **Tropicana Mango Juice:** Positioned as a more natural option, Tropicana is known for its focus on fruit-based beverages, offering a taste closer to fresh fruit juice with less sugar.
+ *   **Minute Maid:** This brand is the third largest juice brand in India with 8% market share. Minute Maid belongs to the same family as Maaza.
+ *   **Paper Boat:** This brand offers traditional mango drinks with a modern touch.
+ *   **Mango Dash:** Mango Dash is known for using real mango pulp in their drinks.
+",4785,6,295,1,2026-02-20T19:25:01.681499,"[""maaza"", ""minute_maid""]","[""frooti"", ""slice"", ""tropicana"", ""paper_boat"", ""mango_dash""]",list,0
+9e10ae46-bce,e9862845,p008,"Best mango drink brand in India",gemini,gemini-2.0-flash,"Several popular mango drink brands are available in India, each with unique characteristics. Here are some of the top contenders:
+
+*   **Frooti:** An iconic and widely recognized brand known for its bright, juicy taste and smooth consistency. Launched in 1985, it was an instant hit, especially among kids and young adults. Frooti is known for being light, refreshing, and easily digestible, making it a popular choice for a quick thirst quencher. In 2023, Frooti held the largest share of India's juice market at 34%.
+*   **Maaza:** A timeless favorite, Maaza is known for its thick texture and strong mango flavor, delivering a taste that closely resembles homemade mango juice. Many remember Maaza as the first mango drink they ever tasted. It offers an instant energy boost and a refreshing experience, making it a common sight at family gatherings and everyday meals. Maaza was founded in India in 1976 and later acquired by Coca-Cola in 1993.
+*   **Slice:** Positioned as a premium mango drink, Slice offers a smooth, rich, and indulgent experience. Tropicana rebranded Slice as Tropicana Slice Mango Juice drink to market specifically to India.
+*   **Tropicana Mango Juice:** This brand is known for its focus on fruit-based beverages, offering a more natural and premium option. Tropicana's mango juice is lighter and less sugary than other traditional drinks, appealing to health-conscious consumers.
+*   **Paper Boat:** Standing out from other packaged mango drinks, Paper Boat provides traditional mango flavors with a modern twist.
+*   **Mango Dash:** Mango Dash is known for using real mango pulp in its juices. The brand is known for its commitment to using real mango pulp, offering products that are vibrant in flavor and rich in nutrients.
+",6105,6,382,2,2026-02-20T19:25:16.531555,"[""maaza""]","[""frooti"", ""slice"", ""tropicana mango juice"", ""paper boat"", ""mango dash""]",list,0
+9ef319c4-04d,e9862845,p008,"Best mango drink brand in India",gemini,gemini-2.0-flash,"Several brands compete for the title of ""best"" mango drink in India, and preference varies from person to person. Here are some of the leading brands:
+
+*   **Maaza:** A long-trusted brand in India, Maaza is known for its thick texture and strong mango flavor, aiming to replicate the taste of homemade mango juice. It is owned by The Coca-Cola Company.
+*   **Frooti:** This is another popular and iconic mango drink in India. Launched in 1985 by Parle Agro, Frooti is known for its bright, juicy taste and smooth consistency. It was the first to use Tetra Pak packaging in India.
+*   **Slice:** Marketed as a premium mango drink, Slice is produced by PepsiCo India.
+*   **Tropicana Mango Juice:** This option is known for its focus on fruit-based beverages, offering a taste closer to fresh fruit juice. It is lighter and less sugary than other traditional mango drinks, appealing to health-conscious consumers.
+*   **Real Fruit Juice by Dabur:** This is a regional favorite that emphasizes pure fruit extracts without unnecessary additives or preservatives, catering to health-conscious consumers.
+*   **Minute Maid:** This brand is owned by Coca-Cola and offers a range of fruit juices, including mango.
+*   **Paper Boat:** This brand offers traditional mango drinks with a modern touch.
+*   **Mango Dash:** Mango Dash is known for using real mango pulp in their drinks.
+*   **V-Pak:** V-Pak's Mango Drink is known for providing good quality at an affordable price.
+
+",5311,6,333,3,2026-02-20T19:25:35.667309,"[""maaza"", ""minute_maid""]","[""frooti"", ""slice"", ""tropicana"", ""real_fruit_juice"", ""paper_boat"", ""mango_dash"", ""v-pak""]",list,1
+018b3730-131,e9862845,p008,"Best mango drink brand in India",openai,gpt-4o,"In India, some popular mango drink brands include:
+
+1. **Frooti** - Known for its distinct mango flavor.
+2. **Maaza** - Offers a rich and authentic mango taste.
+3. **Slice** - Celebrated for its sweet and pulpy mango drink.
+4. **Paper Boat** - Known for using natural ingredients with traditional flavors.
+5. **Minute Maid** - Offers a refreshing mango experience.
+
+Preferences can vary, so you might want to try a few to see which one you like best!",3931,307,108,1,2026-02-20T19:24:24.306130,"[""maaza"", ""minute_maid""]","[""frooti"", ""slice"", ""paper_boat""]",list,0
+1416484a-949,e9862845,p008,"Best mango drink brand in India",openai,gpt-4o,"Some popular mango drink brands in India include:
+
+1. **Frooti** - A long-standing favorite known for its sweet and refreshing taste.
+2. **Maaza** - Another popular choice, often recognized for its rich mango flavor.
+3. **Slice** - Known for its smooth texture and authentic taste.
+4. **Paper Boat Aamras** - Offers a more traditional taste, often less sweet.
+
+Preferences can vary, so it's often a good idea to try a few to see which one you like best!",2781,307,107,2,2026-02-20T19:24:39.358083,"[""maaza""]","[""frooti"", ""slice"", ""paper_boat""]",list,0
+b6347828-8fc,e9862845,p008,"Best mango drink brand in India",openai,gpt-4o,"In India, popular mango drink brands include:
+
+1. **Maaza** - Known for its rich, authentic mango flavor.
+2. **Frooti** - A classic, widely-consumed mango drink.
+3. **Slice** - Offers a sweet and thick mango experience.
+4. **Paper Boat** - Known for its natural ingredients and nostalgic taste.
+5. **Minute Maid** - Offers a refreshing mango drink with fruit pulp.
+
+These brands are well-loved for their distinct tastes and wide availability.",3030,307,103,3,2026-02-20T19:24:50.112169,"[""maaza"", ""minute_maid""]","[""frooti"", ""slice"", ""paper_boat""]",list,0
+fa66cacd-d70,e9862845,p008,"Best mango drink brand in India",perplexity,sonar-pro,"**No single mango drink brand is universally the best in India**, as rankings depend on criteria like market share, taste, pulp content, and consumer preferences, with **Frooti** and **Maaza** most frequently topping lists for popularity and sales.[2][1]
+
+### Top Brands by Key Metrics
+- **Market Leadership**: Frooti holds the largest share at 34% of India's juice market in 2023, owned by Parle Agro, and pioneered Tetra Pak packaging; it's praised as a mango drink pioneer.[2]
+- **Consumer Favorites for Taste and Pulp**: Maaza (Coca-Cola-owned since 1993) is a household name for its pulpier, sweeter Alphonso mango flavor, available in cartons, PET bottles, and glass; it's exported widely.[2][8 from 2]
+- **Other Strong Contenders**:
+  - Tropicana Slice (rebranded mango drink targeting India) for PET bottles.[2]
+  - Real Fruit Juice by Dabur and Tropicana offerings for pure extracts without additives.[1]
+  - Mango Dash for real mango pulp and nutrient-rich options in various sizes.[1]
+  - V-Pak for affordable, farm-sourced quality.[1]
+  - Paper Boat (e.g., Aam Ras) for ethnic flavors like chili guava variants.[2]
+
+| Brand | Key Strengths | Notable Mentions |
+|-------|---------------|------------------|
+| **Frooti** | 34% market share, iconic since 1985[2] | Biggest overall juice brand[2][3] |
+| **Maaza** | Alphonso pulp, sweet taste[2] | Household staple, pulpier than rivals[2] |
+| **Tropicana Slice** | India-specific mango PET bottles[2] | Rebranded from PepsiCo's Slice[2] |
+| **Mango Dash** | Real pulp, vibrant flavor[1] | Trusted manufacturer[1] |
+
+Sources highlight trade-offs: mass-market leaders like Frooti excel in availability but may have added sugar, while niche ones like Raw Pressery emphasize Alphonso pulp with sugarcane and vitamins.[5] Regional tastes vary, so check labels for pulp percentage (higher is often preferred) and certifications.[1] A YouTube review compares options but lacks specifics.[4]",8277,7,487,1,2026-02-20T19:25:54.074364,"[""maaza""]","[""frooti"", ""tropicana slice"", ""mango dash"", ""paper boat""]",list,0
+1a4398b9-6ed,e9862845,p008,"Best mango drink brand in India",perplexity,sonar-pro,"**Mango Dash** stands out as one of the top mango drink brands in India for its use of real mango pulp, vibrant flavor, and nutrient richness.[1] Other leading options include **Frooti**, a popular Indian brand known for its fresh mango taste since 1985, and established names like **Dabur Real Fruit Juice** and **Tropicana**, which focus on pure fruit extracts without additives.[1][2]
+
+### Key Contenders Based on Popularity and Quality
+These brands are frequently highlighted in Indian market reviews for taste, authenticity, and availability:
+
+- **Mango Dash**: Trusted manufacturer using real mango pulp; available in various sizes for family or personal use.[1]
+- **Frooti**: Iconic Indian brand with the slogan ""Mango Frooti, Fresh and Juice""; widely loved for its sweet, natural mango flavor.[2]
+- **V-Pak Mango Drink**: Affordable, made from high-quality farm-sourced materials; captures summer refreshment.[1]
+- **Dabur Real** and **Tropicana**: Long-standing brands emphasizing pure extracts, ideal for health-conscious consumers.[1]
+- **Raw Pressery Alphonso Mango**: Premium pulpy juice with mango pulp, sugarcane juice, Vitamin C, and antioxidants; uses high-quality, responsibly sourced ingredients.[3]
+
+### Selection Tips
+Prioritize labels showing real mango pulp, minimal processing, or no added preservatives for authentic taste and nutrition.[1] Preferences vary by region and personal taste—**Frooti** dominates in mass appeal, while **Mango Dash** excels in pulp quality.[1][2] Local favorites like Litchi Dash mango variants also offer fresh, natural options.[1]",6161,7,351,2,2026-02-20T19:26:12.480038,[],"[""frooti""]",list,0
+1aa46543-92e,e9862845,p008,"Best mango drink brand in India",perplexity,sonar-pro,"**Frooti is the leading mango drink brand in India**, holding 34% of the total juice market share as of 2023 and recognized as the biggest juice brand overall, primarily due to its popular mango flavor.[2] Other top contenders include **Maaza** (a Coca-Cola brand famous for its pulpier, sweeter Alphonso mango taste since 1976) and established names like **Minute Maid**, **Tropicana Slice**, and **Dabur Real**, which emphasize fruit content and wide availability.[1][2]
+
+### Key Factors in Popularity and Rankings
+Market dominance favors mass-market brands with strong distribution:
+- **Frooti** (Parle Agro): Pioneer in Tetra Pak packaging since 1985; available in cartons and PET bottles; tops sales charts.[2][3]
+- **Maaza** (Coca-Cola): Household favorite for authentic mango pulp; exported widely; pulpier profile sets it apart from competitors like Frooti.[2]
+- **Tropicana Slice** (rebranded PepsiCo product): Focuses on PET mango drinks for India; part of broader premium lines.[2]
+
+Niche or quality-focused options include:
+- **Mango Dash**: Uses real mango pulp for vibrant flavor; trusted for nutrients.[1]
+- **Raw Pressery**: Alphonso mango with sugarcane juice; high in Vitamin C, no major market share data.[5]
+- **V-Pak** and **Paper Boat**: Affordable, farm-sourced; Paper Boat offers ethnic flavors like Aam Ras.[1][2]
+
+| Brand | Strengths | Market Notes |
+|-------|-----------|--------------|
+| **Frooti** | Market leader, affordable, widely available | 34% share[2] |
+| **Maaza** | Sweet Alphonso pulp, iconic taste | Coca-Cola backing[2] |
+| **Tropicana Slice** | PET bottles, rebranded for India | Premium positioning[2] |
+| **Mango Dash** | Real pulp, nutrient-rich | Niche trusted brand[1] |
+
+No single ""best"" exists universally, as preferences vary by taste (e.g., pulpiness), price, and health focus (e.g., minimal additives); check labels for fruit content, as sources stress natural ingredients over processing.[1][2] Market data is from 2023, so recent shifts possible without newer stats.",5481,7,495,3,2026-02-20T19:26:36.934840,"[""maaza"", ""minute_maid""]","[""frooti"", ""tropicana_slice"", ""mango_dash"", ""paper_boat""]",list,0
+33a110be-aa8,e9862845,p009,"How many calories in Thums Up?",gemini,gemini-2.0-flash,"The number of calories in Thums Up varies depending on the serving size:
+
+*   **Per 100ml:** Thums Up contains approximately 40-41.6 calories.
+*   **300ml Can:** A 300ml serving of Thums Up has around 120 calories.
+*   **200ml Serving:** A 200ml serving contains approximately 73 calories.
+",2699,8,95,1,2026-02-20T19:27:13.862633,"[""thums_up""]",[],direct_answer,0
+4d72ee51-e20,e9862845,p009,"How many calories in Thums Up?",gemini,gemini-2.0-flash,"The calorie content of Thums Up varies based on serving size:
+
+*   **Per 100ml:** Thums Up contains approximately 40-41.6 calories.
+*   **300ml serving:** A 300ml serving of Thums Up contains around 120 calories.
+*   **200ml serving:** A 200ml serving of Thums Up contains approximately 73 calories.
+",2932,8,97,2,2026-02-20T19:27:22.175196,"[""thums_up""]",[],direct_answer,0
+71051df8-ea0,e9862845,p009,"How many calories in Thums Up?",gemini,gemini-2.0-flash,"The number of calories in Thums Up depends on the serving size:
+
+*   **Per 100ml:** Thums Up contains approximately 40 calories.
+*   **300ml can:** A 300ml serving of Thums Up has around 120 calories.
+*   **Specific product:** Thums-up sweetened carbonated beverage by The Coca Cola Company contains 73 calories per 200ml.
+
+Keep in mind that these values are approximate and can vary slightly depending on the specific formulation and serving size.
+",2863,8,119,3,2026-02-20T19:27:30.016899,"[""thums_up""]",[],direct_answer,0
+5d77a1d4-c47,e9862845,p009,"How many calories in Thums Up?",openai,gpt-4o,"A 300 ml serving of Thums Up contains approximately 120 calories.",1049,309,17,1,2026-02-20T19:26:54.853501,"[""thums_up""]",[],direct_answer,0
+a14a3615-bec,e9862845,p009,"How many calories in Thums Up?",openai,gpt-4o,"A 300 ml bottle of Thums Up typically contains around 150 calories. However, it's always a good idea to check the packaging for the most accurate information.",1672,309,35,2,2026-02-20T19:27:01.080701,"[""thums_up""]",[],direct_answer,0
+11cf19bf-4ae,e9862845,p009,"How many calories in Thums Up?",openai,gpt-4o,"A 300 ml bottle of Thums Up typically contains about 120 calories. This can vary slightly depending on the exact formulation and serving size. Always check the label for the most accurate information.",1965,309,41,3,2026-02-20T19:27:07.121900,"[""thums_up""]",[],direct_answer,0
+fc04a95e-577,e9862845,p009,"How many calories in Thums Up?",perplexity,sonar-pro,"**Thums Up, a carbonated cola soft drink, typically contains around 40 kcal per 100 ml or 100 g, leading to approximately 120 kcal in a standard 300 ml can.** [1][2][5][7]
+
+### Nutritional Breakdown per 100 ml/g (Consistent Across Multiple Sources)
+Multiple retailer and nutrition sites report similar values for a 300 ml serving:
+| Nutrient          | Amount per 100 ml/g | Full 300 ml Can (Estimated) |
+|-------------------|---------------------|-----------------------------|
+| **Energy**       | 40 kcal            | 120 kcal                   | [1][2][5][7]
+| Carbohydrates    | 10 g (all sugars)  | 30 g                       | [1][2][5]
+| Fat              | 0 g                | 0 g                        | [1][2][5]
+| Protein          | 0 g                | 0 g                        | [1][2][5]
+
+One official Coca-Cola site lists slightly higher at **41.6 kcal per 100 ml** (about 125 kcal for 300 ml), with 10.4 g carbs.[3]
+
+### Variations and Notes
+- A 200 ml serving has **73 kcal** (36.5 kcal/100 ml).[6]
+- One outlier reports **120 kcal per 100 ml** (likely for a smaller 200 ml bottle, totaling 240 kcal), but this conflicts with most sources.[4]
+- Values may vary slightly by region, packaging (e.g., 300 ml can vs. 330 ml), or formulation, as Thums Up is produced by Coca-Cola.[3][7] Check product labels for exact details, as sugar content drives the calories. [1][3]",5060,9,370,1,2026-02-20T19:27:41.175200,"[""thums_up""]",[],list,0
+f34fe789-0e6,e9862845,p009,"How many calories in Thums Up?",perplexity,sonar-pro,"**Thums Up, a popular carbonated cola drink, typically contains around 40 kcal per 100 ml or 100 g, leading to approximately 120 kcal in a standard 300 ml can.** This value is supported by multiple sources, though slight variations exist due to regional formulations, packaging sizes, or measurement bases (e.g., per 100 ml vs. per 100 g).[1][5][7][8]
+
+### Key Nutritional Breakdown (Per 100 ml/g, unless noted)
+| Nutrient          | Typical Value          | Sources     |
+|-------------------|------------------------|-------------|
+| **Energy**       | 40 kcal               | [1][2][5]  |
+| **Energy**       | 41.6 kcal (330 ml can)| [3]        |
+| **Energy**       | 120 kcal (per 100 ml) | [4]        |
+| **Carbohydrates**| 10-10.4 g (all sugars)| [1][2][3][5]|
+| **Fat**          | 0 g                   | [1][4][5]  |
+| **Protein**      | 0-0.1 g               | [1][2][5]  |
+| **Full 300 ml can** | ~120 kcal (or 73 kcal for 200 ml)| [6][7][8] |
+
+Sources consistently list primary ingredients as carbonated water, sugar, acidity regulators (e.g., phosphoric acid), caffeine, and cola flavors, with energy mainly from sugars.[1][3][4] Discrepancies like [4]'s higher 120 kcal/100 ml may reflect a denser syrup variant or error, as it's outlier compared to Coca-Cola official and retailer data.[3][7] For precision, check the label on your specific bottle or can, as formulations can vary by market (e.g., India vs. UAE).[3]",4514,9,403,2,2026-02-20T19:27:49.515786,"[""thums_up""]",[],direct_answer,0
+c5154a0a-c98,e9862845,p009,"How many calories in Thums Up?",perplexity,sonar-pro,"**Thums Up (300 ml can) contains approximately 120 calories.**[2][6][7]
+
+This value aligns with multiple nutrition databases reporting 120 calories for a standard 300 ml serving, derived from about 40 kcal per 100 ml or g across sources.[1][2][3][6]
+
+### Per 100 ml/g Breakdown
+| Source | Calories per 100 ml/g | Implied for 300 ml |
+|--------|-----------------------|--------------------|
+| [1] bazaar-foods.co.uk | 40 kcal | 120 kcal |
+| [2][6] fatsecret.com | 120 kcal (full can) | 120 kcal |
+| [3] fitatu.com | 40 kcal | 120 kcal |
+| [4] coca-cola.com (330 ml can) | 41.6 kcal | ~125 kcal (slightly higher due to size/formula variation) |
+
+Slight variations (e.g., 40–42 kcal/100 ml) may occur by region, packaging (300 ml vs. 330 ml), or formulation, but 120 calories is the most consistent figure for the common 300 ml can.[1][2][3][4] Larger servings like McDonald's 400 ml have 160 calories.[8] Thums Up is sugar-sweetened with ~10 g carbs/sugars per 100 ml and no fat or protein.[1][3][4]",2698,9,299,3,2026-02-20T19:27:56.616213,"[""thums_up""]",[],direct_answer,0
+f75d430e-a50,e9862845,p010,"Is Coca-Cola packaging safe for kids?",gemini,gemini-2.0-flash,"While Coca-Cola is working towards more sustainable and recyclable packaging, there are some concerns regarding the safety of their current packaging for children.
+
+Here's a breakdown:
+
+*   **Chemicals in Packaging:**
+    *   Some Coca-Cola packaging has been found to contain antimony, a potentially cancer-causing substance used in the production of PET plastic bottles. Children may be exposed to higher levels of antimony compared to adults.
+    *   BPA, an estrogenic chemical, has been found in some Coca-Cola packaging and is known to transfer into food and accumulate in bodies. Even small amounts of BPA can be harmful, especially to children whose livers are still developing.
+*   **Recalls:**
+    *   In the U.S. in 2025, there was a recall of Coca-Cola products due to potential foreign object contamination.
+    *   In Austria, a large recall occurred due to the possibility of metal fragments in some bottles of Coca-Cola, Fanta, and Sprite.
+*   **Child-Resistant Packaging:**
+    *   It's important to understand that ""child-resistant"" doesn't mean ""childproof"". Such packaging is designed to be difficult for children to open but isn't impossible.
+    *   Supervision and storing hazardous materials out of reach are still essential for child safety.
+*   **Coca-Cola's Efforts:**
+    *   Coca-Cola aims to have 100% recyclable packaging by 2025.
+    *   They are working to reduce their use of single-use plastics and explore plant-based and biodegradable alternatives.
+
+It is important to note that Coca-Cola prohibits the use of child labor in their supply chain.
+",5492,9,363,1,2026-02-20T19:28:37.578188,"[""coca_cola"", ""fanta"", ""sprite""]",[],narrative,0
+9b0149db-ac6,e9862845,p010,"Is Coca-Cola packaging safe for kids?",gemini,gemini-2.0-flash,"It appears that the safety of Coca-Cola packaging for kids is a complex issue with varying concerns depending on the type of packaging. Here's a breakdown:
+
+**1. Chemical leaching:**
+
+*   **Plastic bottles:** Testing has revealed that plastic bottles, including those used for Coca-Cola products, may contain unsafe levels of antimony, a toxic chemical that can leach out of the plastic. Exposure to antimony may increase the risk of cancer and liver disease, and can increase risk factors for heart disease and diabetes. Children may be exposed to antimony at more than twice the level of adults.
+*   **BPA:** Some plastics and aluminum can linings contain bisphenol A (BPA), a chemical that has been linked to health problems, including cancer, reproductive abnormalities, and other issues. Even small amounts of BPA can transfer into food and accumulate in bodies. The FDA has banned BPA in baby bottles and sippy cups but still allows it in food and beverage containers.
+*   **Microplastics:** As plastic degrades, it can create microplastics and nanoplastics that may carry embedded chemicals and absorb toxic compounds from the environment. These pose threats to endocrine health.
+
+**2. Physical hazards:**
+
+*   **Sharp edges:** Opened aluminum cans can have sharp edges that could cut a child's fingers. Dents in cans can also create pointy tips, posing a risk.
+*   **Choking hazards:** The pull tabs on soda cans can be removed and pose a choking hazard to young children.
+*   **Glass:** Drinking glasses, especially those that are cheaply made or have decorative enamel, can break or shatter, posing a laceration hazard. Some glasses, including Coca-Cola-themed glasses, have been found to contain lead and cadmium in the decorative designs, which can be toxic.
+
+**3. Other considerations:**
+
+*   **Recalls:** There have been recalls of Coca-Cola products due to potential contamination with metal fragments or elevated levels of chlorate, which can be harmful, especially to children.
+*   **Environmental racism:** Data indicates that certain communities may be disproportionately exposed to chemicals like antimony from plastic, contributing to environmental racism.
+
+**Recent Efforts:**
+
+*   Coca-Cola is exploring more sustainable packaging options, like paper-based carriers, to reduce plastic waste and exposure to harmful chemicals.
+*   Coca-Cola is also looking for better alternatives for their cans but has no plans to phase out or ban BPA.
+
+**Recommendations:**
+
+*   Be aware of the potential risks associated with different types of Coca-Cola packaging.
+*   Keep Coca-Cola products and packaging away from young children to prevent choking, cuts, and ingestion of harmful chemicals.
+*   If children are allowed to handle cans or glasses, supervise them closely.
+*   Consider safer alternatives to plastic packaging, such as glass bottles.
+*   Stay informed about product recalls and safety concerns.
+",8936,9,594,2,2026-02-20T19:28:56.701984,"[""coca_cola""]",[],list,0
+9ae5300a-e0d,e9862845,p010,"Is Coca-Cola packaging safe for kids?",gemini,gemini-2.0-flash,"Whether Coca-Cola packaging is safe for kids is a complex issue with various factors to consider:
+
+**General Safety:**
+
+*   Coca-Cola offers beverages in various packaging like glass and plastic bottles, and aluminum cans.
+*   Coca-Cola aims to ensure its packaging is designed to be recyclable and to increase the percentage of recycled material in primary packaging.
+*   Coca-Cola is exploring new designs that focus on improving their environmental footprint.
+
+**Potential Risks:**
+
+*   Some studies have found that PET plastic bottles may contain cancer-causing antimony and cobalt.
+*   A report stated that every beverage tested had some level of cancer-causing antimony, and forty percent had antimony levels that exceeded the level set by California for its Public Health Goal for drinking water.
+*   Chronic antimony exposure can increase the risk of cancer and liver disease and can increase risk factors for heart disease and diabetes.
+*   Children may be exposed to antimony at more than twice the level of adults.
+*   There have been recalls of Coca-Cola products due to potential contamination with metal fragments.
+
+**Coca-Cola's Efforts to Improve Safety and Sustainability:**
+
+*   Coca-Cola is working to use more recycled materials in its packaging. Their goals include using 35% to 40% recycled material in primary packaging by 2035.
+*   Coca-Cola aims to increase recycled plastic use to 30% to 35% globally by 2035.
+*   Coca-Cola is reducing the use of colored rPET in their packaging to make bottles easier to recycle.
+*   Coca-Cola is investing in research and development to improve packaging design and reduce the amount of packaging used.
+*   Coca-Cola is ""lightweighting"" bottles and exploring new, environmentally friendly materials.
+*   Coca-Cola is working to ensure that its primary packaging is recyclable. In 2024, Coca-Cola reported that 99% of its primary consumer packaging around the world was recyclable.
+*   Coca-Cola is exploring alternative materials, such as plant-based plastics.
+*   Coca-Cola is testing safer alternative catalysts to rid packaging of the toxic chemicals antimony and cobalt.
+*   Coca-Cola aims to recover 75% of its primary packaging for recycling or reuse by 2025.
+
+**Bisphenol A (BPA):**
+
+*   BPA, an estrogenic chemical used in some plastics, poses a serious risk to human health.
+*   The FDA has banned BPA from children's products.
+*   When corporations like Coca-Cola use BPA in food packaging, even in small amounts, it transfers into our food and accumulates in our bodies.
+*   90% of people test positive for BPA.
+*   Coca-Cola exposes hundreds of millions of children to levels of BPA that their developing livers are unable to effectively process.
+",6536,9,606,3,2026-02-20T19:29:12.623969,"[""coca_cola""]",[],narrative,0
+c6900b23-346,e9862845,p010,"Is Coca-Cola packaging safe for kids?",openai,gpt-4o,"Coca-Cola packaging, like most food and beverage packaging, is designed to be safe for consumers, including children. However, there are a few considerations:
+
+1. **Choking Hazard**: Caps from bottles can pose a choking hazard for small children if swallowed. It's important to keep caps and small packaging components out of reach of young kids.
+
+2. **Sharp Edges**: Aluminum cans sometimes have sharp edges, especially if they are damaged or opened carelessly. Care should be taken when handling cans.
+
+3. **Sugar Content**: While not a packaging issue, be mindful of the sugar content in Coca-Cola products. Excessive sugar intake is not recommended for children.
+
+4. **Recyclability**: Teaching kids about recycling and proper disposal of packaging can be an excellent educational opportunity.
+
+If specific safety concerns arise, checking for any recalls or warnings from the company or relevant health authorities is advisable.",6825,309,184,1,2026-02-20T19:28:08.163631,"[""coca_cola""]",[],narrative,0
+c01576d8-822,e9862845,p010,"Is Coca-Cola packaging safe for kids?",openai,gpt-4o,"Coca-Cola packaging is generally designed to be safe for consumers of all ages, including kids. However, some aspects to consider include:
+
+1. **Choking Hazard**: Small bottle caps can pose choking hazards for young children. It's important to keep them out of reach.
+
+2. **Sharp Edges**: Aluminum cans can have sharp edges if they are damaged or opened incorrectly, so supervision is advised when kids are handling them.
+
+3. **Recycling**: Encouraging kids to recycle packaging properly can be a good practice for environmental safety.
+
+Overall, while the packaging is safe with normal use, supervision and proper handling are key to ensuring it remains safe for kids.",3819,309,137,2,2026-02-20T19:28:17.412257,"[""coca_cola""]",[],narrative,1
+58bad1e4-aed,e9862845,p010,"Is Coca-Cola packaging safe for kids?",openai,gpt-4o,"Coca-Cola packaging, like most food and beverage packaging, is designed to be safe under typical conditions of use. However, there are certain considerations for children's safety:
+
+1. **Choking Hazards**: Small parts like caps or pull tabs can be choking hazards for young children. It's important to keep these out of reach.
+
+2. **Sharp Edges**: Aluminum cans can have sharp edges once opened, so children should be supervised when handling them.
+
+3. **Environmental Impact**: Encourage the recycling of bottles and cans to teach children about environmental responsibility.
+
+As long as children are supervised and educated about proper handling and recycling, Coca-Cola packaging should be relatively safe. Always ensure that young children do not have unsupervised access to caps and small parts.",4358,309,155,3,2026-02-20T19:28:27.813716,"[""coca_cola""]",[],narrative,0
+42dbc31f-b29,e9862845,p010,"Is Coca-Cola packaging safe for kids?",perplexity,sonar-pro,"Coca-Cola packaging raises safety concerns for children, particularly regarding chemical exposure from plastic bottles.
+
+Research commissioned by Defend Our Health found that **all Coca-Cola beverage bottles tested contained antimony**, a cancer-causing chemical used as a catalyst in PET plastic production[2]. Follow-up testing detected antimony in all eight Coca-Cola brand bottles examined[2]. This is particularly concerning for children, as they may be exposed to antimony at **more than twice the level of adults**[2].
+
+The same study found that 40% of tested beverage samples contained antimony levels exceeding California's Public Health Goal for drinking water, and 40% also contained cobalt[2]. Chronic antimony exposure can increase the risk of cancer, liver disease, and risk factors for heart disease and diabetes[2].
+
+While The Coca-Cola Company has adopted a **Responsible Marketing Policy** that prohibits advertising directly to children under 13[1], this addresses marketing practices rather than product safety. The company has also adopted voluntary standards prohibiting advertising of unhealthy foods and beverages directly to children via television[4].
+
+However, Coca-Cola's overall plastic use has **surged 21% since 2019 to 7.95 billion pounds in 2024**[5], and the company was identified as the number one polluter of branded plastic found in the environment[7]. Environmental health advocates have urged Coca-Cola to transition to safer alternative catalysts in plastic bottle production, noting that such alternatives are already available on the market[2].",5052,9,305,1,2026-02-20T19:29:28.829517,"[""coca_cola""]",[],narrative,0
+457b86b0-6c7,e9862845,p010,"Is Coca-Cola packaging safe for kids?",perplexity,sonar-pro,"**Coca-Cola packaging, primarily PET plastic bottles, raises safety concerns for children due to potential leaching of toxic chemicals like antimony, with studies detecting elevated levels in beverages that may pose higher risks to kids than adults.** [2]
+
+### Key Chemical Concerns
+- PET bottles used by Coca-Cola contain **antimony**, a catalyst in production linked to cancer, liver disease, heart disease, and diabetes risks with chronic exposure; lab tests on Coca-Cola products found antimony in all eight bottles tested, and 40% of beverages exceeded California's public health goal for drinking water.[2]
+- Children face over **twice the exposure** to antimony compared to adults, with disproportionate impacts on Latinx and Black communities, potentially exacerbating environmental health disparities.[2]
+- Older concerns involved **BPA** (bisphenol A) in packaging, banned by the FDA in children's products due to health risks like cancer, though current results focus more on antimony and cobalt (detected in 40% of samples).[5][2]
+
+### Company Policies and Marketing Practices
+Coca-Cola does not address packaging material safety directly in its policies but commits to **not marketing products to children under 13**, avoiding ads in media where ≥30% of the audience is under 13, and prohibiting child-appealing elements like characters or games.[1][3]
+- This includes no advertising in primary schools and respect for local regulations.[1]
+- Critics note voluntary standards by Coca-Cola limit TV ads to kids but question overall child-targeted marketing of sugary drinks.[4]
+
+### Environmental and Broader Context
+PET plastic pollution from Coca-Cola is significant, ranking it as the top branded plastic polluter, though this indirectly relates to safety via microplastic exposure risks not detailed here.[6]
+Petitions urge Coca-Cola to switch to safer catalysts to eliminate antimony and cobalt, with some industry testing underway.[2]
+
+No search results confirm regulatory violations or definitive ""unsafe"" rulings specific to kids, but independent tests highlight chemical migration risks, warranting caution for frequent child consumption.[2] Coca-Cola emphasizes responsible marketing over packaging safety claims.[1][3]",5588,9,441,2,2026-02-20T19:29:40.632451,"[""coca_cola""]",[],narrative,0
+deae7cbc-008,e9862845,p010,"Is Coca-Cola packaging safe for kids?",perplexity,sonar-pro,"No, Coca-Cola packaging is not entirely safe for kids due to documented concerns over chemicals like **BPA** in cans and **antimony** in PET plastic bottles, which can leach into beverages and pose heightened risks to children.[1][2][5]
+
+### Key Safety Issues
+- **BPA (Bisphenol A) in cans**: Coca-Cola's epoxy-lined cans contain BPA, an endocrine disruptor linked to reproductive issues, cancer risks, infertility, cardiovascular disease, diabetes, and developmental effects in animal studies. Health Canada warns it leaches into drinks, and the FDA has expressed concerns for fetuses, infants, and young children, supporting its replacement. Children's developing livers process BPA poorly, exposing hundreds of millions of kids annually; 90% of people test positive for it. BPA is absent from Coca-Cola's plastic bottles.[1][2]
+- **Antimony and cobalt in PET plastic bottles**: Lab tests of Coca-Cola bottles found antimony (cancer-causing, linked to liver disease, heart disease, diabetes) in all samples, with 40% exceeding California's drinking water public health goal. Cobalt was in 40% of samples. Children face over twice the adult exposure levels, with disproportionate impacts on Latinx and Black communities.[5]
+- **Other incidents**: A 2026 European recall of Coca-Cola cans and bottles cited excessively high chlorate levels, which impair thyroid function and iodine uptake—especially harmful to infants and children.[4]
+
+### Company Practices and Context
+Coca-Cola does not use BPA in plastic bottles and has policies avoiding direct marketing to children under 13 (e.g., no ads on media with ≥30% child audience, no child-appealing promotions).[3] However, shareholder challenges and petitions criticize insufficient BPA disclosures and slow adoption of safer alternatives, with advocacy groups giving the company poor ratings.[2][5] Recent petitions (2024) urge switching PET catalysts to eliminate antimony/cobalt, noting industry testing of options.[5]
+
+No search results confirm full resolution of these issues by 2026; concerns persist from activist, regulatory, and scientific sources. Opt for BPA-free or alternative packaging when possible for kids.",5451,9,456,3,2026-02-20T19:29:58.056482,"[""coca_cola""]",[],narrative,0

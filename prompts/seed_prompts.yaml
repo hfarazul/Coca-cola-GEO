@@ -1,0 +1,79 @@
+# Coca-Cola India GEO — Seed Prompts (10 starters for MVP testing)
+# Expand to 50 in Step 5
+#
+# Tags:
+#   category: product | health | comparison | purchase | sustainability
+#   persona: general | health_conscious | millennial_mom | gen_z | c_suite | fitness
+#   product: coca_cola | thums_up | sprite | fanta | maaza | limca | kinley | coke_zero | null (brand-agnostic)
+#   intent: informational | transactional | navigational
+
+prompts:
+  - id: p001
+    text: "Best cold drink for summer in India"
+    category: purchase
+    persona: general
+    product: null
+    intent: transactional
+
+  - id: p002
+    text: "What are the ingredients in Coca-Cola?"
+    category: product
+    persona: general
+    product: coca_cola
+    intent: informational
+
+  - id: p003
+    text: "Is Thums Up better than Pepsi?"
+    category: comparison
+    persona: general
+    product: thums_up
+    intent: informational
+
+  - id: p004
+    text: "Is Coke Zero safe for diabetics?"
+    category: health
+    persona: health_conscious
+    product: coke_zero
+    intent: informational
+
+  - id: p005
+    text: "Coca-Cola sustainability initiatives India"
+    category: sustainability
+    persona: c_suite
+    product: coca_cola
+    intent: informational
+
+  - id: p006
+    text: "Healthiest soft drink options in India"
+    category: health
+    persona: fitness
+    product: null
+    intent: informational
+
+  - id: p007
+    text: "Coca-Cola vs Pepsi which is better"
+    category: comparison
+    persona: general
+    product: coca_cola
+    intent: informational
+
+  - id: p008
+    text: "Best mango drink brand in India"
+    category: purchase
+    persona: general
+    product: null
+    intent: transactional
+
+  - id: p009
+    text: "How many calories in Thums Up?"
+    category: product
+    persona: health_conscious
+    product: thums_up
+    intent: informational
+
+  - id: p010
+    text: "Is Coca-Cola packaging safe for kids?"
+    category: sustainability
+    persona: millennial_mom
+    product: coca_cola
+    intent: informational

@@ -1,0 +1,20 @@
+[project]
+name = "coke-geo-tracker"
+version = "0.1.0"
+description = "Coca-Cola India GEO Measure Loop — AI citation tracking across LLMs"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.60",
+    "google-genai>=1.0",
+    "instructor>=1.7",
+    "pydantic>=2.0",
+    "typer>=0.12",
+    "rich>=13.0",
+    "pyyaml>=6.0",
+    "aiosqlite>=0.20",
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+geo = "cli:app"

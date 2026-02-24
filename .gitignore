@@ -1,0 +1,10 @@
+.env
+data/*.db
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.egg-info/
+.DS_Store
+outreach.db
+.claude/
